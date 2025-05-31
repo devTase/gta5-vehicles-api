@@ -25,10 +25,10 @@ public class Vehicle extends PanacheEntityBase {
     public String manufacturer;
     
     @Column(name = "vehicle_class")
-    public VehicleClass vehicleClass;
+    public String vehicleClass;
 
     @Column(name = "drive_type")
-    public DriveType driveType;
+    public String driveType;
     
     @Column
     public Integer seats;
@@ -131,20 +131,19 @@ public class Vehicle extends PanacheEntityBase {
         this.price = price;
     }
 
-
-    public VehicleClass getVehicleClass() {
+    public String getVehicleClass() {
         return vehicleClass;
     }
 
-    public void setVehicleClass(VehicleClass vehicleClass) {
+    public void setVehicleClass(String vehicleClass) {
         this.vehicleClass = vehicleClass;
     }
 
-    public DriveType getDriveType() {
+    public String getDriveType() {
         return driveType;
     }
 
-    public void setDriveType(DriveType driveType) {
+    public void setDriveType(String driveType) {
         this.driveType = driveType;
     }
 

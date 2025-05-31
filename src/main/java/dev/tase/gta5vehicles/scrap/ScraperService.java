@@ -2,19 +2,15 @@ package dev.tase.gta5vehicles.scrap;
 
 import dev.tase.gta5vehicles.consumption.FuelConsumptionEstimator;
 import dev.tase.gta5vehicles.consumption.VehicleStats;
-import dev.tase.gta5vehicles.control.VehicleService;
 import dev.tase.gta5vehicles.entities.DriveType;
 import dev.tase.gta5vehicles.entities.Vehicle;
 import dev.tase.gta5vehicles.entities.VehicleClass;
 import jakarta.enterprise.context.ApplicationScoped;
-import jakarta.enterprise.context.RequestScoped;
-import jakarta.inject.Inject;
 import org.jboss.logging.Logger;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.SocketTimeoutException;
@@ -72,7 +68,7 @@ public class ScraperService {
     public void scrapVehicleSinglePage(String page) {
         Vehicle vehicle = new Vehicle();
         Document doc = getDocument(page);
-        if(doc == null) return;
+        if (doc == null) return;
 
         // vehicle name
         Elements rows = doc.select("article.site-content > h1");
@@ -84,18 +80,21 @@ public class ScraperService {
         Element vehiclePrimaryDetails;
         try {
             vehiclePrimaryDetails = doc.select("div.col-sm-12 >table>tbody").getFirst();
-        } catch(NoSuchElementException e) {
+        } catch (NoSuchElementException e) {
             LOGGER.warn("No primary details found for vehicle: " + vehicle.getName() + " at " + page);
-            return; // Skip this vehicle if no primary details are found
+            return;
         }
-
 
         String vehicleClassType = ScraperUtils.getCleanText(vehiclePrimaryDetails, 0, 1);
         if (vehicleClassType != null) {
-            vehicle.setVehicleClass(VehicleClass.from(vehicleClassType));
+            vehicle.setVehicleClass(VehicleClass.from(vehicleClassType).name());
         }
         String manufc = ScraperUtils.getCleanText(vehiclePrimaryDetails, 1, 1);
-        vehicle.setManufacturer(manufc);
+        if (!ScraperUtils.isDouble(manufc)) {
+            vehicle.setManufacturer(manufc);
+        } else {
+            vehicle.setManufacturer("Unknown");
+        }
 
         // Get secondary details
         final Element vehicleSecondaryDetails = doc.select("div.table-rail>table>tbody").getFirst();
@@ -106,7 +105,7 @@ public class ScraperService {
         vehicle.setWeight(ScraperUtils.getDouble(vehicleSecondaryDetails, VehicleProperty.WEIGHT.getIndex(), defaultTextIndex));
         vehicle.setSeats(ScraperUtils.getInteger(vehicleSecondaryDetails, VehicleProperty.SEATS.getIndex(), defaultTextIndex));
         vehicle.setPrice(ScraperUtils.getBigDecimal(vehicleSecondaryDetails, VehicleProperty.BUY_PRICE.getIndex(), defaultTextIndex));
-        vehicle.setDriveType(DriveType.from(vehicleSecondaryDetails.child(VehicleProperty.DRIVE_TYPE.getIndex()).child(1).text()));
+        vehicle.setDriveType(DriveType.from(vehicleSecondaryDetails.child(VehicleProperty.DRIVE_TYPE.getIndex()).child(1).text()).name());
 
         // calculate vehicle consumptions
         vehicle.setConsumptions(

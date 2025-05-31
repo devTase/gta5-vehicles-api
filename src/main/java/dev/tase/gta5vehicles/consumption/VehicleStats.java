@@ -1,15 +1,12 @@
 package dev.tase.gta5vehicles.consumption;
 
-import dev.tase.gta5vehicles.entities.DriveType;
-import dev.tase.gta5vehicles.entities.VehicleClass;
-
 public class VehicleStats {
     private double weightKg;
     private double acceleration;
-    private DriveType driveType;
-    private VehicleClass vehicleClass;
+    private String driveType;
+    private String vehicleClass;
 
-    public VehicleStats(double weightKg, double acceleration, DriveType driveType, VehicleClass vehicleClass) {
+    public VehicleStats(double weightKg, double acceleration, String driveType, String vehicleClass) {
         this.weightKg = weightKg;
         this.acceleration = acceleration;
         this.driveType = driveType;
@@ -24,11 +21,11 @@ public class VehicleStats {
         return acceleration;
     }
 
-    public DriveType getDriveType() {
+    public String getDriveType() {
         return driveType;
     }
 
-    public VehicleClass getVehicleClass() {
+    public String getVehicleClass() {
         return this.vehicleClass;
     }
 }

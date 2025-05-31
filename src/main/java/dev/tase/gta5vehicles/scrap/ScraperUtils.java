@@ -17,6 +17,16 @@ public class ScraperUtils {
         return text;
     }
 
+    public static boolean isDouble(String str) {
+        if (str == null || str.isEmpty()) return false;
+        try {
+            Double.parseDouble(str);
+            return true;
+        } catch (NumberFormatException e) {
+            return false;
+        }
+    }
+
     public static Double getDouble(Element parent, int rowIndex, int colIndex) {
         String value = getCleanText(parent, rowIndex, colIndex);
         if (value == null || value.equals("N/A")) return 0.0;
