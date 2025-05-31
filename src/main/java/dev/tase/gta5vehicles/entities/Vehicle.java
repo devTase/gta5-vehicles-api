@@ -1,10 +1,13 @@
 package dev.tase.gta5vehicles.entities;
 
-import io.quarkus.hibernate.orm.panache.PanacheEntity;
+import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.persistence.Column;
 import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
@@ -15,7 +18,11 @@ import java.util.List;
  * Entity representing a GTA5 vehicle with detailed specifications.
  */
 @Entity
-public class Vehicle extends PanacheEntity {
+public class Vehicle extends PanacheEntityBase {
+    
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    public Long id;
     
     @Column(nullable = false)
     public String name;
