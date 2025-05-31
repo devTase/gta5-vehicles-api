@@ -1,0 +1,1615 @@
+2025-05-31 15:29:58,223 - __main__ - INFO - Starting GTA5 vehicles scraperService
+2025-05-31 15:29:58,224 - __main__ - INFO - Scraping from all sources
+2025-05-31 15:29:58,224 - scraperService - INFO - Scraping vehicles from https://www.gtabase.com/gta-5/vehicles
+2025-05-31 15:29:59,360 - scraperService - ERROR - Error fetching GTA Base: 404 Client Error: Not Found for url: https://www.gtabase.com/gta-5/vehicles
+2025-05-31 15:29:59,361 - scraperService - INFO - Scraping vehicles from https://gta.fandom.com/wiki/Vehicles_in_GTA_V
+2025-05-31 15:30:01,164 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/9F
+2025-05-31 15:30:01,385 - scraperService - INFO - Extracted data for vehicle: 9F
+2025-05-31 15:30:02,391 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/9F_Cabrio
+2025-05-31 15:30:03,164 - scraperService - INFO - Extracted data for vehicle: 9F Cabrio
+2025-05-31 15:30:04,170 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Alpha
+2025-05-31 15:30:06,302 - scraperService - INFO - Extracted data for vehicle: Alpha
+2025-05-31 15:30:07,307 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Business_Update
+2025-05-31 15:30:07,468 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:30:08,473 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Banshee_(HD_Universe)
+2025-05-31 15:30:10,433 - scraperService - INFO - Extracted data for vehicle: Banshee
+2025-05-31 15:30:11,438 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blista_Compact
+2025-05-31 15:30:11,900 - scraperService - INFO - Extracted data for vehicle: Blista Compact
+2025-05-31 15:30:12,906 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buffalo_(HD_Universe)
+2025-05-31 15:30:13,669 - scraperService - INFO - Extracted data for vehicle: Buffalo
+2025-05-31 15:30:14,674 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buffalo_S
+2025-05-31 15:30:15,108 - scraperService - INFO - Extracted data for vehicle: Buffalo S
+2025-05-31 15:30:16,114 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Carbonizzare
+2025-05-31 15:30:16,389 - scraperService - INFO - Extracted data for vehicle: Carbonizzare
+2025-05-31 15:30:17,394 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Comet
+2025-05-31 15:30:17,749 - scraperService - INFO - Extracted data for vehicle: Comet
+2025-05-31 15:30:18,754 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Coquette
+2025-05-31 15:30:20,538 - scraperService - INFO - Extracted data for vehicle: Coquette
+2025-05-31 15:30:21,544 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Elegy_RH8
+2025-05-31 15:30:23,129 - scraperService - INFO - Extracted data for vehicle: Elegy RH8
+2025-05-31 15:30:24,134 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Feltzer
+2025-05-31 15:30:25,066 - scraperService - INFO - Extracted data for vehicle: Feltzer
+2025-05-31 15:30:26,072 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Furore_GT
+2025-05-31 15:30:27,526 - scraperService - INFO - Extracted data for vehicle: Furore GT
+2025-05-31 15:30:28,531 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Last_Team_Standing_Update
+2025-05-31 15:30:28,710 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:30:29,715 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fusilade
+2025-05-31 15:30:30,597 - scraperService - INFO - Extracted data for vehicle: Fusilade
+2025-05-31 15:30:31,602 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Futo
+2025-05-31 15:30:32,432 - scraperService - INFO - Extracted data for vehicle: Futo
+2025-05-31 15:30:33,437 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Go_Go_Monkey_Blista
+2025-05-31 15:30:34,500 - scraperService - INFO - Extracted data for vehicle: Go Go Monkey Blista
+2025-05-31 15:30:35,506 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jester
+2025-05-31 15:30:36,102 - scraperService - INFO - Extracted data for vehicle: Jester
+2025-05-31 15:30:37,107 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Business_Update
+2025-05-31 15:30:37,528 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:30:38,533 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jester_(Racecar)
+2025-05-31 15:30:40,164 - scraperService - INFO - Extracted data for vehicle: Jester (Racecar)
+2025-05-31 15:30:41,169 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Festive_Surprise
+2025-05-31 15:30:41,766 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:30:42,772 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Massacro
+2025-05-31 15:30:43,201 - scraperService - INFO - Extracted data for vehicle: Massacro
+2025-05-31 15:30:44,206 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_High_Life_Update
+2025-05-31 15:30:44,372 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:30:45,378 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Massacro_(Racecar)
+2025-05-31 15:30:45,849 - scraperService - INFO - Extracted data for vehicle: Massacro (Racecar)
+2025-05-31 15:30:46,854 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Festive_Surprise
+2025-05-31 15:30:47,448 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:30:48,453 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Penumbra
+2025-05-31 15:30:49,270 - scraperService - INFO - Extracted data for vehicle: Penumbra
+2025-05-31 15:30:50,275 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rapid_GT
+2025-05-31 15:30:50,558 - scraperService - INFO - Extracted data for vehicle: Rapid GT
+2025-05-31 15:30:51,563 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rapid_GT_(cabrio)
+2025-05-31 15:30:52,367 - scraperService - INFO - Extracted data for vehicle: Rapid GT
+2025-05-31 15:30:53,373 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Schwartzer
+2025-05-31 15:30:53,685 - scraperService - INFO - Extracted data for vehicle: Schwartzer
+2025-05-31 15:30:54,690 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sprunk_Buffalo
+2025-05-31 15:30:55,395 - scraperService - INFO - Extracted data for vehicle: Sprunk Buffalo
+2025-05-31 15:30:56,400 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sultan
+2025-05-31 15:30:56,939 - scraperService - INFO - Extracted data for vehicle: Sultan
+2025-05-31 15:30:57,942 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Surano
+2025-05-31 15:30:58,681 - scraperService - INFO - Extracted data for vehicle: Surano
+2025-05-31 15:30:59,687 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blade_(car)
+2025-05-31 15:31:00,007 - scraperService - INFO - Extracted data for vehicle: Blade
+2025-05-31 15:31:01,012 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:31:01,155 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:31:02,160 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buccaneer_(HD_Universe)
+2025-05-31 15:31:02,465 - scraperService - INFO - Extracted data for vehicle: Buccaneer
+2025-05-31 15:31:03,471 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Burger_Shot_Stallion
+2025-05-31 15:31:03,834 - scraperService - INFO - Extracted data for vehicle: Burger Shot Stallion
+2025-05-31 15:31:04,839 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Chino
+2025-05-31 15:31:05,597 - scraperService - INFO - Extracted data for vehicle: Chino
+2025-05-31 15:31:06,599 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:31:07,179 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:31:08,184 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Coquette_BlackFin
+2025-05-31 15:31:08,504 - scraperService - INFO - Extracted data for vehicle: Coquette BlackFin
+2025-05-31 15:31:09,508 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:31:10,036 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:31:11,041 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dominator
+2025-05-31 15:31:11,683 - scraperService - INFO - Extracted data for vehicle: Dominator
+2025-05-31 15:31:12,688 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Duke_O%27Death
+2025-05-31 15:31:13,534 - scraperService - INFO - Extracted data for vehicle: Duke O'Death
+2025-05-31 15:31:14,537 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dukes_(car)
+2025-05-31 15:31:14,845 - scraperService - INFO - Extracted data for vehicle: Dukes
+2025-05-31 15:31:15,850 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Gauntlet
+2025-05-31 15:31:16,104 - scraperService - INFO - Extracted data for vehicle: Gauntlet
+2025-05-31 15:31:17,109 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hotknife
+2025-05-31 15:31:18,680 - scraperService - INFO - Extracted data for vehicle: Hotknife
+2025-05-31 15:31:19,685 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Phoenix
+2025-05-31 15:31:20,114 - scraperService - INFO - Extracted data for vehicle: Phoenix
+2025-05-31 15:31:21,120 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Picador
+2025-05-31 15:31:21,442 - scraperService - INFO - Extracted data for vehicle: Picador
+2025-05-31 15:31:22,448 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pi%C3%9Fwasser_Dominator
+2025-05-31 15:31:22,700 - scraperService - INFO - Extracted data for vehicle: Pißwasser Dominator
+2025-05-31 15:31:23,706 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rat-Loader
+2025-05-31 15:31:24,008 - scraperService - INFO - Extracted data for vehicle: Rat-Loader
+2025-05-31 15:31:25,013 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rat-Truck
+2025-05-31 15:31:25,295 - scraperService - INFO - Extracted data for vehicle: Rat-Truck
+2025-05-31 15:31:26,301 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Festive_Surprise
+2025-05-31 15:31:26,459 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:31:27,464 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Redwood_Gauntlet
+2025-05-31 15:31:28,852 - scraperService - INFO - Extracted data for vehicle: Redwood Gauntlet
+2025-05-31 15:31:29,857 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ruiner
+2025-05-31 15:31:30,200 - scraperService - INFO - Extracted data for vehicle: Ruiner
+2025-05-31 15:31:31,206 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sabre_Turbo
+2025-05-31 15:31:31,553 - scraperService - INFO - Extracted data for vehicle: Sabre Turbo
+2025-05-31 15:31:32,558 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Slamvan
+2025-05-31 15:31:32,840 - scraperService - INFO - Extracted data for vehicle: Slamvan
+2025-05-31 15:31:33,845 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Festive_Surprise
+2025-05-31 15:31:34,450 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:31:35,456 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stallion
+2025-05-31 15:31:36,144 - scraperService - INFO - Extracted data for vehicle: Stallion
+2025-05-31 15:31:37,149 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vigero
+2025-05-31 15:31:38,031 - scraperService - INFO - Extracted data for vehicle: Vigero
+2025-05-31 15:31:39,036 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Virgo_(HD_Universe)
+2025-05-31 15:31:39,272 - scraperService - INFO - Extracted data for vehicle: Virgo
+2025-05-31 15:31:40,278 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:31:40,459 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:31:41,464 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Voodoo_(HD_Universe)
+2025-05-31 15:31:41,743 - scraperService - INFO - Extracted data for vehicle: Voodoo
+2025-05-31 15:31:42,748 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Adder
+2025-05-31 15:31:43,037 - scraperService - INFO - Extracted data for vehicle: Adder
+2025-05-31 15:31:44,043 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bullet
+2025-05-31 15:31:44,443 - scraperService - INFO - Extracted data for vehicle: Bullet
+2025-05-31 15:31:45,448 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cheetah_(HD_Universe)
+2025-05-31 15:31:47,086 - scraperService - INFO - Extracted data for vehicle: Cheetah
+2025-05-31 15:31:48,091 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Entity_XF
+2025-05-31 15:31:48,793 - scraperService - INFO - Extracted data for vehicle: Entity XF
+2025-05-31 15:31:49,798 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Infernus
+2025-05-31 15:31:50,113 - scraperService - INFO - Extracted data for vehicle: Infernus
+2025-05-31 15:31:51,118 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Osiris
+2025-05-31 15:31:51,732 - scraperService - INFO - Extracted data for vehicle: Osiris
+2025-05-31 15:31:52,737 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:31:52,890 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:31:53,895 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/T20
+2025-05-31 15:31:54,310 - scraperService - INFO - Extracted data for vehicle: T20
+2025-05-31 15:31:55,315 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:31:55,898 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:31:56,904 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Turismo_R
+2025-05-31 15:31:57,156 - scraperService - INFO - Extracted data for vehicle: Turismo R
+2025-05-31 15:31:58,162 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Business_Update
+2025-05-31 15:31:58,698 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:31:59,703 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vacca
+2025-05-31 15:31:59,953 - scraperService - INFO - Extracted data for vehicle: Vacca
+2025-05-31 15:32:00,958 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Voltic
+2025-05-31 15:32:01,553 - scraperService - INFO - Extracted data for vehicle: Voltic
+2025-05-31 15:32:02,558 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Zentorno
+2025-05-31 15:32:02,989 - scraperService - INFO - Extracted data for vehicle: Zentorno
+2025-05-31 15:32:03,994 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_High_Life_Update
+2025-05-31 15:32:04,172 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:32:05,177 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Coquette_Classic
+2025-05-31 15:32:06,816 - scraperService - INFO - Extracted data for vehicle: Coquette Classic
+2025-05-31 15:32:07,821 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_San_Andreas_Flight_School_Update
+2025-05-31 15:32:07,971 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:32:08,977 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/JB_700
+2025-05-31 15:32:09,739 - scraperService - INFO - Extracted data for vehicle: JB 700
+2025-05-31 15:32:10,744 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Manana
+2025-05-31 15:32:11,587 - scraperService - INFO - Extracted data for vehicle: Manana
+2025-05-31 15:32:12,592 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Monroe
+2025-05-31 15:32:13,173 - scraperService - INFO - Extracted data for vehicle: Monroe
+2025-05-31 15:32:14,179 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Peyote
+2025-05-31 15:32:14,903 - scraperService - INFO - Extracted data for vehicle: Peyote
+2025-05-31 15:32:15,908 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pigalle
+2025-05-31 15:32:16,145 - scraperService - INFO - Extracted data for vehicle: Pigalle
+2025-05-31 15:32:17,150 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:32:17,336 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:32:18,341 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Roosevelt
+2025-05-31 15:32:18,568 - scraperService - INFO - Extracted data for vehicle: Roosevelt
+2025-05-31 15:32:19,573 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Valentine%27s_Day_Massacre_Special
+2025-05-31 15:32:19,791 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:32:20,796 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stinger
+2025-05-31 15:32:21,577 - scraperService - INFO - Extracted data for vehicle: Stinger
+2025-05-31 15:32:22,582 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stirling_GT
+2025-05-31 15:32:24,025 - scraperService - INFO - Extracted data for vehicle: Stirling GT
+2025-05-31 15:32:25,030 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:32:25,186 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:32:26,192 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tornado
+2025-05-31 15:32:26,498 - scraperService - INFO - Extracted data for vehicle: Tornado
+2025-05-31 15:32:27,503 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tornado_(cabrio)
+2025-05-31 15:32:27,748 - scraperService - INFO - Extracted data for vehicle: Tornado
+2025-05-31 15:32:28,753 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tornado_(beater)
+2025-05-31 15:32:29,015 - scraperService - INFO - Extracted data for vehicle: Tornado
+2025-05-31 15:32:30,020 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tornado_(Mariachi)
+2025-05-31 15:32:30,414 - scraperService - INFO - Extracted data for vehicle: Tornado
+2025-05-31 15:32:31,420 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Z-Type
+2025-05-31 15:32:31,703 - scraperService - INFO - Extracted data for vehicle: Z-Type
+2025-05-31 15:32:32,709 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Asea
+2025-05-31 15:32:33,576 - scraperService - INFO - Extracted data for vehicle: Asea
+2025-05-31 15:32:34,581 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Asea_(snow)
+2025-05-31 15:32:35,353 - scraperService - INFO - Extracted data for vehicle: Asea (snow)
+2025-05-31 15:32:36,358 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Asterope
+2025-05-31 15:32:36,584 - scraperService - INFO - Extracted data for vehicle: Asterope
+2025-05-31 15:32:37,590 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Emperor_(car)
+2025-05-31 15:32:38,679 - scraperService - INFO - Extracted data for vehicle: Emperor
+2025-05-31 15:32:39,685 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Emperor_(beater)
+2025-05-31 15:32:41,366 - scraperService - INFO - Extracted data for vehicle: Emperor
+2025-05-31 15:32:42,372 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Emperor_(snow)
+2025-05-31 15:32:43,027 - scraperService - INFO - Extracted data for vehicle: Emperor
+2025-05-31 15:32:44,033 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fugitive
+2025-05-31 15:32:44,586 - scraperService - INFO - Extracted data for vehicle: Fugitive
+2025-05-31 15:32:45,591 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Glendale_(HD_Universe)
+2025-05-31 15:32:45,864 - scraperService - INFO - Extracted data for vehicle: Glendale
+2025-05-31 15:32:46,869 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:32:47,413 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:32:48,418 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ingot
+2025-05-31 15:32:48,723 - scraperService - INFO - Extracted data for vehicle: Ingot
+2025-05-31 15:32:49,728 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Intruder_(HD_Universe)
+2025-05-31 15:32:49,991 - scraperService - INFO - Extracted data for vehicle: Intruder
+2025-05-31 15:32:50,997 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Premier
+2025-05-31 15:32:51,304 - scraperService - INFO - Extracted data for vehicle: Premier
+2025-05-31 15:32:52,309 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Primo
+2025-05-31 15:32:52,635 - scraperService - INFO - Extracted data for vehicle: Primo
+2025-05-31 15:32:53,640 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Regina
+2025-05-31 15:32:54,478 - scraperService - INFO - Extracted data for vehicle: Regina
+2025-05-31 15:32:55,483 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Romero_Hearse
+2025-05-31 15:32:55,809 - scraperService - INFO - Extracted data for vehicle: Romero Hearse
+2025-05-31 15:32:56,814 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Schafter_(second_generation)
+2025-05-31 15:32:57,616 - scraperService - INFO - Extracted data for vehicle: Schafter
+2025-05-31 15:32:58,621 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stanier
+2025-05-31 15:32:59,230 - scraperService - INFO - Extracted data for vehicle: Stanier
+2025-05-31 15:33:00,235 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stratum
+2025-05-31 15:33:02,343 - scraperService - INFO - Extracted data for vehicle: Stratum
+2025-05-31 15:33:03,349 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stretch
+2025-05-31 15:33:03,914 - scraperService - INFO - Extracted data for vehicle: Stretch
+2025-05-31 15:33:04,920 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Super_Diamond
+2025-05-31 15:33:05,180 - scraperService - INFO - Extracted data for vehicle: Super Diamond
+2025-05-31 15:33:06,185 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Surge
+2025-05-31 15:33:06,453 - scraperService - INFO - Extracted data for vehicle: Surge
+2025-05-31 15:33:07,458 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tailgater
+2025-05-31 15:33:09,348 - scraperService - INFO - Extracted data for vehicle: Tailgater
+2025-05-31 15:33:10,353 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Warrener
+2025-05-31 15:33:10,642 - scraperService - INFO - Extracted data for vehicle: Warrener
+2025-05-31 15:33:11,647 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:33:11,789 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:33:12,794 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Washington
+2025-05-31 15:33:13,117 - scraperService - INFO - Extracted data for vehicle: Washington
+2025-05-31 15:33:14,122 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Baller
+2025-05-31 15:33:14,695 - scraperService - INFO - Extracted data for vehicle: Baller
+2025-05-31 15:33:15,701 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Baller_(second_generation)
+2025-05-31 15:33:16,752 - scraperService - INFO - Extracted data for vehicle: Baller
+2025-05-31 15:33:17,757 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/BeeJay_XL
+2025-05-31 15:33:18,563 - scraperService - INFO - Extracted data for vehicle: BeeJay XL
+2025-05-31 15:33:19,568 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cavalcade
+2025-05-31 15:33:21,196 - scraperService - INFO - Extracted data for vehicle: Cavalcade
+2025-05-31 15:33:22,197 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cavalcade_(second_generation)
+2025-05-31 15:33:22,974 - scraperService - INFO - Extracted data for vehicle: Cavalcade
+2025-05-31 15:33:23,979 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dubsta
+2025-05-31 15:33:24,238 - scraperService - INFO - Extracted data for vehicle: Dubsta
+2025-05-31 15:33:25,244 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dubsta_(custom)
+2025-05-31 15:33:25,932 - scraperService - INFO - Extracted data for vehicle: Dubsta
+2025-05-31 15:33:26,938 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/FQ_2
+2025-05-31 15:33:27,741 - scraperService - INFO - Extracted data for vehicle: FQ 2
+2025-05-31 15:33:28,747 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Granger
+2025-05-31 15:33:29,532 - scraperService - INFO - Extracted data for vehicle: Granger
+2025-05-31 15:33:30,537 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Gresley
+2025-05-31 15:33:30,772 - scraperService - INFO - Extracted data for vehicle: Gresley
+2025-05-31 15:33:31,777 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Habanero
+2025-05-31 15:33:32,063 - scraperService - INFO - Extracted data for vehicle: Habanero
+2025-05-31 15:33:33,068 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Huntley_S
+2025-05-31 15:33:33,673 - scraperService - INFO - Extracted data for vehicle: Huntley S
+2025-05-31 15:33:34,679 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_High_Life_Update
+2025-05-31 15:33:35,266 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:33:36,271 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Landstalker
+2025-05-31 15:33:37,033 - scraperService - INFO - Extracted data for vehicle: Landstalker
+2025-05-31 15:33:38,038 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mesa_Grande
+2025-05-31 15:33:38,983 - scraperService - INFO - Extracted data for vehicle: Mesa
+2025-05-31 15:33:39,989 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mesa_(snow)
+2025-05-31 15:33:40,157 - scraperService - INFO - Extracted data for vehicle: Mesa
+2025-05-31 15:33:41,162 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Patriot
+2025-05-31 15:33:42,338 - scraperService - INFO - Extracted data for vehicle: Patriot
+2025-05-31 15:33:43,343 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Radius
+2025-05-31 15:33:44,261 - scraperService - INFO - Extracted data for vehicle: Radius
+2025-05-31 15:33:45,266 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rocoto
+2025-05-31 15:33:45,500 - scraperService - INFO - Extracted data for vehicle: Rocoto
+2025-05-31 15:33:46,505 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Seminole
+2025-05-31 15:33:46,890 - scraperService - INFO - Extracted data for vehicle: Seminole
+2025-05-31 15:33:47,895 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Serrano
+2025-05-31 15:33:48,651 - scraperService - INFO - Extracted data for vehicle: Serrano
+2025-05-31 15:33:49,656 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blista
+2025-05-31 15:33:49,949 - scraperService - INFO - Extracted data for vehicle: Blista
+2025-05-31 15:33:50,955 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dilettante
+2025-05-31 15:33:51,215 - scraperService - INFO - Extracted data for vehicle: Dilettante
+2025-05-31 15:33:52,221 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dilettante_(Merryweather)
+2025-05-31 15:33:52,507 - scraperService - INFO - Extracted data for vehicle: Dilettante
+2025-05-31 15:33:53,512 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Issi
+2025-05-31 15:33:54,273 - scraperService - INFO - Extracted data for vehicle: Issi
+2025-05-31 15:33:55,278 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Panto
+2025-05-31 15:33:55,581 - scraperService - INFO - Extracted data for vehicle: Panto
+2025-05-31 15:33:56,587 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:33:56,728 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:33:57,734 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Prairie
+2025-05-31 15:33:58,012 - scraperService - INFO - Extracted data for vehicle: Prairie
+2025-05-31 15:33:59,017 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rhapsody
+2025-05-31 15:33:59,279 - scraperService - INFO - Extracted data for vehicle: Rhapsody
+2025-05-31 15:34:00,284 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:34:00,470 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:34:01,475 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cognoscenti_Cabrio
+2025-05-31 15:34:02,257 - scraperService - INFO - Extracted data for vehicle: Cognoscenti Cabrio
+2025-05-31 15:34:03,263 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Exemplar
+2025-05-31 15:34:04,044 - scraperService - INFO - Extracted data for vehicle: Exemplar
+2025-05-31 15:34:05,050 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/F620
+2025-05-31 15:34:05,298 - scraperService - INFO - Extracted data for vehicle: F620
+2025-05-31 15:34:06,304 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Felon
+2025-05-31 15:34:07,311 - scraperService - INFO - Extracted data for vehicle: Felon
+2025-05-31 15:34:08,316 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Felon_GT
+2025-05-31 15:34:09,013 - scraperService - INFO - Extracted data for vehicle: Felon GT
+2025-05-31 15:34:10,018 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jackal
+2025-05-31 15:34:10,682 - scraperService - INFO - Extracted data for vehicle: Jackal
+2025-05-31 15:34:11,687 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Oracle
+2025-05-31 15:34:11,930 - scraperService - INFO - Extracted data for vehicle: Oracle
+2025-05-31 15:34:12,936 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Oracle_XS
+2025-05-31 15:34:13,668 - scraperService - INFO - Extracted data for vehicle: Oracle XS
+2025-05-31 15:34:14,673 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sentinel
+2025-05-31 15:34:15,016 - scraperService - INFO - Extracted data for vehicle: Sentinel
+2025-05-31 15:34:16,022 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sentinel_XS
+2025-05-31 15:34:16,768 - scraperService - INFO - Extracted data for vehicle: Sentinel XS
+2025-05-31 15:34:17,774 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Windsor
+2025-05-31 15:34:19,216 - scraperService - INFO - Extracted data for vehicle: Windsor
+2025-05-31 15:34:20,221 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:34:20,358 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:34:21,364 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Zion
+2025-05-31 15:34:21,627 - scraperService - INFO - Extracted data for vehicle: Zion
+2025-05-31 15:34:22,633 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Zion_Cabrio
+2025-05-31 15:34:23,353 - scraperService - INFO - Extracted data for vehicle: Zion Cabrio
+2025-05-31 15:34:24,359 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Akuma
+2025-05-31 15:34:25,034 - scraperService - INFO - Extracted data for vehicle: Akuma
+2025-05-31 15:34:26,039 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bagger
+2025-05-31 15:34:26,489 - scraperService - INFO - Extracted data for vehicle: Bagger
+2025-05-31 15:34:27,494 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bati_801
+2025-05-31 15:34:28,315 - scraperService - INFO - Extracted data for vehicle: Bati 801
+2025-05-31 15:34:29,321 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bati_801RR
+2025-05-31 15:34:30,464 - scraperService - INFO - Extracted data for vehicle: Bati 801RR
+2025-05-31 15:34:31,469 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Carbon_RS
+2025-05-31 15:34:32,041 - scraperService - INFO - Extracted data for vehicle: Carbon RS
+2025-05-31 15:34:33,046 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Daemon
+2025-05-31 15:34:33,949 - scraperService - INFO - Extracted data for vehicle: Daemon
+2025-05-31 15:34:34,955 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Double_T
+2025-05-31 15:34:35,674 - scraperService - INFO - Extracted data for vehicle: Double T
+2025-05-31 15:34:36,679 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Faggio
+2025-05-31 15:34:37,007 - scraperService - INFO - Extracted data for vehicle: Faggio
+2025-05-31 15:34:38,012 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hakuchou
+2025-05-31 15:34:38,643 - scraperService - INFO - Extracted data for vehicle: Hakuchou
+2025-05-31 15:34:39,649 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Last_Team_Standing_Update
+2025-05-31 15:34:40,086 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:34:41,091 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hexer
+2025-05-31 15:34:41,662 - scraperService - INFO - Extracted data for vehicle: Hexer
+2025-05-31 15:34:42,668 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Innovation
+2025-05-31 15:34:43,469 - scraperService - INFO - Extracted data for vehicle: Innovation
+2025-05-31 15:34:44,474 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Last_Team_Standing_Update
+2025-05-31 15:34:44,603 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:34:45,609 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Nemesis
+2025-05-31 15:34:45,857 - scraperService - INFO - Extracted data for vehicle: Nemesis
+2025-05-31 15:34:46,862 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/PCJ_600
+2025-05-31 15:34:47,163 - scraperService - INFO - Extracted data for vehicle: PCJ 600
+2025-05-31 15:34:48,168 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ruffian
+2025-05-31 15:34:49,331 - scraperService - INFO - Extracted data for vehicle: Ruffian
+2025-05-31 15:34:50,336 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sanchez
+2025-05-31 15:34:52,399 - scraperService - INFO - Extracted data for vehicle: Sanchez
+2025-05-31 15:34:53,405 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sovereign
+2025-05-31 15:34:53,662 - scraperService - INFO - Extracted data for vehicle: Sovereign
+2025-05-31 15:34:54,667 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Independence_Day_Special
+2025-05-31 15:34:55,198 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:34:56,203 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Thrust
+2025-05-31 15:34:56,458 - scraperService - INFO - Extracted data for vehicle: Thrust
+2025-05-31 15:34:57,463 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_High_Life_Update
+2025-05-31 15:34:57,611 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:34:58,616 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vader
+2025-05-31 15:34:59,060 - scraperService - INFO - Extracted data for vehicle: Vader
+2025-05-31 15:35:00,066 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vindicator
+2025-05-31 15:35:00,876 - scraperService - INFO - Extracted data for vehicle: Vindicator
+2025-05-31 15:35:01,882 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:35:02,023 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:35:03,028 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bifta
+2025-05-31 15:35:03,308 - scraperService - INFO - Extracted data for vehicle: Bifta
+2025-05-31 15:35:04,313 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Beach_Bum_Update
+2025-05-31 15:35:04,458 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:35:05,464 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blazer
+2025-05-31 15:35:05,698 - scraperService - INFO - Extracted data for vehicle: Blazer
+2025-05-31 15:35:06,703 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blazer_Lifeguard
+2025-05-31 15:35:06,975 - scraperService - INFO - Extracted data for vehicle: Blazer Lifeguard
+2025-05-31 15:35:07,980 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bodhi
+2025-05-31 15:35:08,264 - scraperService - INFO - Extracted data for vehicle: Bodhi
+2025-05-31 15:35:09,270 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Brawler
+2025-05-31 15:35:09,639 - scraperService - INFO - Extracted data for vehicle: Brawler
+2025-05-31 15:35:10,644 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:35:10,796 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:35:11,801 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dubsta_6x6
+2025-05-31 15:35:12,402 - scraperService - INFO - Extracted data for vehicle: Dubsta 6x6
+2025-05-31 15:35:13,403 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:35:13,549 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:35:14,555 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dune_Buggy
+2025-05-31 15:35:15,024 - scraperService - INFO - Extracted data for vehicle: Dune Buggy
+2025-05-31 15:35:16,030 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Duneloader
+2025-05-31 15:35:16,261 - scraperService - INFO - Extracted data for vehicle: Duneloader
+2025-05-31 15:35:17,266 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hot_Rod_Blazer
+2025-05-31 15:35:17,660 - scraperService - INFO - Extracted data for vehicle: Hot Rod Blazer
+2025-05-31 15:35:18,665 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Injection
+2025-05-31 15:35:19,361 - scraperService - INFO - Extracted data for vehicle: Injection
+2025-05-31 15:35:20,367 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Kalahari
+2025-05-31 15:35:21,043 - scraperService - INFO - Extracted data for vehicle: Kalahari
+2025-05-31 15:35:22,048 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Beach_Bum_Update
+2025-05-31 15:35:22,200 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:35:23,205 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Marshall
+2025-05-31 15:35:23,461 - scraperService - INFO - Extracted data for vehicle: Marshall
+2025-05-31 15:35:24,466 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mesa_(off-road)
+2025-05-31 15:35:25,132 - scraperService - INFO - Extracted data for vehicle: Mesa
+2025-05-31 15:35:26,137 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rancher_XL
+2025-05-31 15:35:26,822 - scraperService - INFO - Extracted data for vehicle: Rancher XL
+2025-05-31 15:35:27,827 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rancher_XL_(snow)
+2025-05-31 15:35:28,043 - scraperService - INFO - Extracted data for vehicle: Rancher XL
+2025-05-31 15:35:29,048 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rebel
+2025-05-31 15:35:30,649 - scraperService - INFO - Extracted data for vehicle: Rebel
+2025-05-31 15:35:31,655 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rusty_Rebel
+2025-05-31 15:35:31,929 - scraperService - INFO - Extracted data for vehicle: Rusty Rebel
+2025-05-31 15:35:32,935 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sandking_SWB
+2025-05-31 15:35:33,168 - scraperService - INFO - Extracted data for vehicle: Sandking SWB
+2025-05-31 15:35:34,174 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sandking_XL
+2025-05-31 15:35:34,871 - scraperService - INFO - Extracted data for vehicle: Sandking XL
+2025-05-31 15:35:35,876 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Space_Docker
+2025-05-31 15:35:36,556 - scraperService - INFO - Extracted data for vehicle: Space Docker
+2025-05-31 15:35:37,561 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Liberator
+2025-05-31 15:35:38,986 - scraperService - INFO - Extracted data for vehicle: Liberator
+2025-05-31 15:35:39,992 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Independence_Day_Special
+2025-05-31 15:35:40,141 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:35:41,147 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/BMX_(HD_Universe)
+2025-05-31 15:35:42,340 - scraperService - INFO - Extracted data for vehicle: BMX
+2025-05-31 15:35:43,346 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cruiser_(bike)
+2025-05-31 15:35:44,030 - scraperService - INFO - Extracted data for vehicle: Cruiser
+2025-05-31 15:35:45,035 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Endurex_Race_Bike
+2025-05-31 15:35:45,774 - scraperService - INFO - Extracted data for vehicle: Endurex Race Bike
+2025-05-31 15:35:46,780 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fixter
+2025-05-31 15:35:47,502 - scraperService - INFO - Extracted data for vehicle: Fixter
+2025-05-31 15:35:48,507 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Scorcher
+2025-05-31 15:35:48,764 - scraperService - INFO - Extracted data for vehicle: Scorcher
+2025-05-31 15:35:49,770 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tri-Cycles_Race_Bike
+2025-05-31 15:35:50,401 - scraperService - INFO - Extracted data for vehicle: Tri-Cycles Race Bike
+2025-05-31 15:35:51,406 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Whippet_Race_Bike
+2025-05-31 15:35:52,229 - scraperService - INFO - Extracted data for vehicle: Whippet Race Bike
+2025-05-31 15:35:53,234 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bison
+2025-05-31 15:35:53,973 - scraperService - INFO - Extracted data for vehicle: Bison
+2025-05-31 15:35:54,978 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bison_(McGill-Olsen)
+2025-05-31 15:35:55,204 - scraperService - INFO - Extracted data for vehicle: Bison
+2025-05-31 15:35:56,209 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bison_(The_Mighty_Bush)
+2025-05-31 15:35:56,971 - scraperService - INFO - Extracted data for vehicle: Bison
+2025-05-31 15:35:57,977 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bobcat_XL
+2025-05-31 15:35:58,536 - scraperService - INFO - Extracted data for vehicle: Bobcat XL
+2025-05-31 15:35:59,541 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Boxville_(HD_Universe)
+2025-05-31 15:36:01,434 - scraperService - INFO - Extracted data for vehicle: Boxville
+2025-05-31 15:36:02,440 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Boxville_(utility)
+2025-05-31 15:36:02,670 - scraperService - INFO - Extracted data for vehicle: Boxville
+2025-05-31 15:36:03,676 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Boxville_(Humane_Labs)
+2025-05-31 15:36:04,263 - scraperService - INFO - Extracted data for vehicle: Boxville
+2025-05-31 15:36:05,268 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Burrito
+2025-05-31 15:36:05,627 - scraperService - INFO - Extracted data for vehicle: Burrito
+2025-05-31 15:36:06,633 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bugstars_Burrito
+2025-05-31 15:36:07,279 - scraperService - INFO - Extracted data for vehicle: Bugstars Burrito
+2025-05-31 15:36:08,285 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Burrito_(second_generation)
+2025-05-31 15:36:09,089 - scraperService - INFO - Extracted data for vehicle: Burrito
+2025-05-31 15:36:10,094 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Burrito_(snow)
+2025-05-31 15:36:10,321 - scraperService - INFO - Extracted data for vehicle: Burrito
+2025-05-31 15:36:11,326 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Camper_(HD_Universe)
+2025-05-31 15:36:11,558 - scraperService - INFO - Extracted data for vehicle: Camper
+2025-05-31 15:36:12,563 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Clown_Van
+2025-05-31 15:36:12,812 - scraperService - INFO - Extracted data for vehicle: Clown Van
+2025-05-31 15:36:13,818 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Gang_Burrito
+2025-05-31 15:36:14,113 - scraperService - INFO - Extracted data for vehicle: Gang Burrito
+2025-05-31 15:36:15,118 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Journey
+2025-05-31 15:36:15,909 - scraperService - INFO - Extracted data for vehicle: Journey
+2025-05-31 15:36:16,914 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Minivan
+2025-05-31 15:36:17,229 - scraperService - INFO - Extracted data for vehicle: Minivan
+2025-05-31 15:36:18,234 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Paradise
+2025-05-31 15:36:19,056 - scraperService - INFO - Extracted data for vehicle: Paradise
+2025-05-31 15:36:20,062 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Beach_Bum_Update
+2025-05-31 15:36:20,603 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:36:21,608 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pony
+2025-05-31 15:36:22,460 - scraperService - INFO - Extracted data for vehicle: Pony
+2025-05-31 15:36:23,466 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pony_(Smoke_On_The_Water)
+2025-05-31 15:36:23,709 - scraperService - INFO - Extracted data for vehicle: Pony
+2025-05-31 15:36:24,715 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rumpo
+2025-05-31 15:36:25,005 - scraperService - INFO - Extracted data for vehicle: Rumpo
+2025-05-31 15:36:26,010 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rumpo_(Deludamol)
+2025-05-31 15:36:26,276 - scraperService - INFO - Extracted data for vehicle: Rumpo
+2025-05-31 15:36:27,281 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Speedo
+2025-05-31 15:36:27,992 - scraperService - INFO - Extracted data for vehicle: Speedo
+2025-05-31 15:36:28,997 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Surfer
+2025-05-31 15:36:29,264 - scraperService - INFO - Extracted data for vehicle: Surfer
+2025-05-31 15:36:30,269 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Taco_Van
+2025-05-31 15:36:30,507 - scraperService - INFO - Extracted data for vehicle: Taco Van
+2025-05-31 15:36:31,513 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Youga
+2025-05-31 15:36:31,800 - scraperService - INFO - Extracted data for vehicle: Youga
+2025-05-31 15:36:32,806 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Airtug
+2025-05-31 15:36:33,055 - scraperService - INFO - Extracted data for vehicle: Airtug
+2025-05-31 15:36:34,060 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Caddy
+2025-05-31 15:36:34,814 - scraperService - INFO - Extracted data for vehicle: Caddy
+2025-05-31 15:36:35,820 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Caddy_(civilian)
+2025-05-31 15:36:36,224 - scraperService - INFO - Extracted data for vehicle: Caddy
+2025-05-31 15:36:37,229 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Docktug
+2025-05-31 15:36:38,108 - scraperService - INFO - Extracted data for vehicle: Docktug
+2025-05-31 15:36:39,113 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fieldmaster
+2025-05-31 15:36:39,768 - scraperService - INFO - Extracted data for vehicle: Fieldmaster
+2025-05-31 15:36:40,774 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fieldmaster_(snow)
+2025-05-31 15:36:41,527 - scraperService - INFO - Extracted data for vehicle: Fieldmaster
+2025-05-31 15:36:42,532 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Forklift_(HD_Universe)
+2025-05-31 15:36:43,302 - scraperService - INFO - Extracted data for vehicle: Forklift
+2025-05-31 15:36:44,308 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Lawn_Mower
+2025-05-31 15:36:45,087 - scraperService - INFO - Extracted data for vehicle: Lawn Mower
+2025-05-31 15:36:46,092 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ripley
+2025-05-31 15:36:46,334 - scraperService - INFO - Extracted data for vehicle: Ripley
+2025-05-31 15:36:47,340 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sadler
+2025-05-31 15:36:47,632 - scraperService - INFO - Extracted data for vehicle: Sadler
+2025-05-31 15:36:48,637 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sadler_(snow)
+2025-05-31 15:36:48,866 - scraperService - INFO - Extracted data for vehicle: Sadler (snow)
+2025-05-31 15:36:49,872 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Scrap_Truck
+2025-05-31 15:36:50,125 - scraperService - INFO - Extracted data for vehicle: Scrap Truck
+2025-05-31 15:36:51,130 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Towtruck_(Yankee-based)
+2025-05-31 15:36:51,340 - scraperService - INFO - Extracted data for vehicle: Tow Truck
+2025-05-31 15:36:52,345 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tow_Truck
+2025-05-31 15:36:53,088 - scraperService - INFO - Extracted data for vehicle: Tow Truck
+2025-05-31 15:36:54,093 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tractor
+2025-05-31 15:36:54,709 - scraperService - INFO - Extracted data for vehicle: Tractor
+2025-05-31 15:36:55,715 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Utility_Truck
+2025-05-31 15:36:55,974 - scraperService - INFO - Extracted data for vehicle: Utility Truck
+2025-05-31 15:36:56,980 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Utility_Truck_(AWP)
+2025-05-31 15:36:57,212 - scraperService - INFO - Extracted data for vehicle: Utility Truck
+2025-05-31 15:36:58,217 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Utility_Truck_(Contender-based)
+2025-05-31 15:36:59,037 - scraperService - INFO - Extracted data for vehicle: Utility Truck
+2025-05-31 15:37:00,042 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-2
+2025-05-31 15:37:00,262 - scraperService - INFO - Extracted data for vehicle: [2]
+2025-05-31 15:37:01,267 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Army_Trailer
+2025-05-31 15:37:01,996 - scraperService - INFO - Extracted data for vehicle: Army Trailer
+2025-05-31 15:37:03,001 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-3
+2025-05-31 15:37:03,518 - scraperService - INFO - Extracted data for vehicle: [3]
+2025-05-31 15:37:04,523 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Army_Trailer_(tanker)
+2025-05-31 15:37:04,991 - scraperService - INFO - Extracted data for vehicle: Army Trailer
+2025-05-31 15:37:05,996 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Baletrailer
+2025-05-31 15:37:06,624 - scraperService - INFO - Extracted data for vehicle: Baletrailer
+2025-05-31 15:37:07,629 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Boat_Trailer
+2025-05-31 15:37:07,906 - scraperService - INFO - Extracted data for vehicle: Boat Trailer
+2025-05-31 15:37:08,911 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dock_Trailer
+2025-05-31 15:37:09,623 - scraperService - INFO - Extracted data for vehicle: Dock Trailer
+2025-05-31 15:37:10,628 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-4
+2025-05-31 15:37:10,906 - scraperService - INFO - Extracted data for vehicle: [4]
+2025-05-31 15:37:11,911 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Graintrailer
+2025-05-31 15:37:12,121 - scraperService - INFO - Extracted data for vehicle: Graintrailer
+2025-05-31 15:37:13,126 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Prop_Trailer
+2025-05-31 15:37:13,306 - scraperService - INFO - Extracted data for vehicle: Prop Trailer
+2025-05-31 15:37:14,316 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(boat)
+2025-05-31 15:37:15,251 - scraperService - INFO - Extracted data for vehicle: Trailer (boat)
+2025-05-31 15:37:16,261 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(car_carrier)
+2025-05-31 15:37:16,824 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:17,835 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(flatbed)
+2025-05-31 15:37:18,459 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:19,470 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(container)
+2025-05-31 15:37:19,697 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:20,707 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(box)
+2025-05-31 15:37:21,234 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:22,243 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(ramp-door)
+2025-05-31 15:37:22,942 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:23,953 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(Fame_or_Shame)
+2025-05-31 15:37:24,167 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:25,187 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(logs)
+2025-05-31 15:37:25,873 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:26,884 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(rake)
+2025-05-31 15:37:27,439 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:28,449 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(small)
+2025-05-31 15:37:29,128 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:30,138 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(tanker)
+2025-05-31 15:37:30,673 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:37:31,683 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cutter
+2025-05-31 15:37:32,526 - scraperService - INFO - Extracted data for vehicle: Cutter
+2025-05-31 15:37:33,536 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dock_Handler
+2025-05-31 15:37:34,221 - scraperService - INFO - Extracted data for vehicle: Dock Handler
+2025-05-31 15:37:35,231 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dozer
+2025-05-31 15:37:36,469 - scraperService - INFO - Extracted data for vehicle: Dozer
+2025-05-31 15:37:37,479 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dump
+2025-05-31 15:37:37,704 - scraperService - INFO - Extracted data for vehicle: Dump
+2025-05-31 15:37:38,714 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Flatbed
+2025-05-31 15:37:39,075 - scraperService - INFO - Extracted data for vehicle: Flatbed
+2025-05-31 15:37:40,085 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mixer_(4-axle)
+2025-05-31 15:37:40,836 - scraperService - INFO - Extracted data for vehicle: Mixer
+2025-05-31 15:37:41,846 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rubble
+2025-05-31 15:37:42,160 - scraperService - INFO - Extracted data for vehicle: Rubble
+2025-05-31 15:37:43,171 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tipper_(3-axle)
+2025-05-31 15:37:43,686 - scraperService - INFO - Extracted data for vehicle: Tipper
+2025-05-31 15:37:44,700 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Airport_Bus
+2025-05-31 15:37:45,521 - scraperService - INFO - Extracted data for vehicle: Airport Bus
+2025-05-31 15:37:46,531 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bus_(HD_Universe)
+2025-05-31 15:37:47,142 - scraperService - INFO - Extracted data for vehicle: Bus
+2025-05-31 15:37:48,153 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dashound
+2025-05-31 15:37:48,402 - scraperService - INFO - Extracted data for vehicle: Dashound
+2025-05-31 15:37:49,412 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rental_Shuttle_Bus
+2025-05-31 15:37:50,023 - scraperService - INFO - Extracted data for vehicle: Rental Shuttle Bus
+2025-05-31 15:37:51,033 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Taxi
+2025-05-31 15:37:51,885 - scraperService - INFO - Extracted data for vehicle: Taxi
+2025-05-31 15:37:52,895 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tour_Bus
+2025-05-31 15:37:53,167 - scraperService - INFO - Extracted data for vehicle: Tour Bus
+2025-05-31 15:37:54,177 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trashmaster
+2025-05-31 15:37:54,868 - scraperService - INFO - Extracted data for vehicle: Trashmaster
+2025-05-31 15:37:55,878 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Benson_(HD_Universe)
+2025-05-31 15:37:56,655 - scraperService - INFO - Extracted data for vehicle: Benson
+2025-05-31 15:37:57,666 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Biff
+2025-05-31 15:37:57,953 - scraperService - INFO - Extracted data for vehicle: Biff
+2025-05-31 15:37:58,963 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hauler
+2025-05-31 15:38:00,333 - scraperService - INFO - Extracted data for vehicle: Hauler
+2025-05-31 15:38:01,339 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mule
+2025-05-31 15:38:01,749 - scraperService - INFO - Extracted data for vehicle: Mule
+2025-05-31 15:38:02,759 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Packer
+2025-05-31 15:38:03,619 - scraperService - INFO - Extracted data for vehicle: Packer
+2025-05-31 15:38:04,629 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Phantom
+2025-05-31 15:38:04,892 - scraperService - INFO - Extracted data for vehicle: Phantom
+2025-05-31 15:38:05,902 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pounder
+2025-05-31 15:38:06,580 - scraperService - INFO - Extracted data for vehicle: Pounder
+2025-05-31 15:38:07,590 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Securicar_(HD_Universe)
+2025-05-31 15:38:07,838 - scraperService - INFO - Extracted data for vehicle: Stockade
+2025-05-31 15:38:08,848 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stockade_(snow)
+2025-05-31 15:38:09,064 - scraperService - INFO - Extracted data for vehicle: Stockade
+2025-05-31 15:38:10,074 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ambulance_(HD_Universe)
+2025-05-31 15:38:10,634 - scraperService - INFO - Extracted data for vehicle: Ambulance
+2025-05-31 15:38:11,644 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/FIB_Buffalo
+2025-05-31 15:38:11,924 - scraperService - INFO - Extracted data for vehicle: FIB
+2025-05-31 15:38:12,935 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-5
+2025-05-31 15:38:13,162 - scraperService - INFO - Extracted data for vehicle: [5]
+2025-05-31 15:38:14,172 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-6
+2025-05-31 15:38:14,398 - scraperService - INFO - Extracted data for vehicle: [6]
+2025-05-31 15:38:15,408 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/FIB_(vehicle)
+2025-05-31 15:38:15,690 - scraperService - INFO - Extracted data for vehicle: FIB
+2025-05-31 15:38:16,700 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fire_Truck_(HD_Universe)
+2025-05-31 15:38:16,953 - scraperService - INFO - Extracted data for vehicle: Fire Truck
+2025-05-31 15:38:17,964 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Lifeguard
+2025-05-31 15:38:18,595 - scraperService - INFO - Extracted data for vehicle: Lifeguard
+2025-05-31 15:38:19,605 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Park_Ranger
+2025-05-31 15:38:20,170 - scraperService - INFO - Extracted data for vehicle: Park Ranger
+2025-05-31 15:38:21,181 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Bike
+2025-05-31 15:38:21,474 - scraperService - INFO - Extracted data for vehicle: Police Bike
+2025-05-31 15:38:22,484 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Cruiser
+2025-05-31 15:38:23,836 - scraperService - INFO - Extracted data for vehicle: Police Cruiser
+2025-05-31 15:38:24,846 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Cruiser_(Buffalo)
+2025-05-31 15:38:25,056 - scraperService - INFO - Extracted data for vehicle: Police Cruiser
+2025-05-31 15:38:26,067 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-7
+2025-05-31 15:38:26,565 - scraperService - INFO - Extracted data for vehicle: [7]
+2025-05-31 15:38:27,576 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Cruiser_(interceptor)
+2025-05-31 15:38:27,872 - scraperService - INFO - Extracted data for vehicle: Police Cruiser
+2025-05-31 15:38:28,882 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-8
+2025-05-31 15:38:29,103 - scraperService - INFO - Extracted data for vehicle: [8]
+2025-05-31 15:38:30,114 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Maverick_(HD_Universe)
+2025-05-31 15:38:31,851 - scraperService - INFO - Extracted data for vehicle: Police Maverick
+2025-05-31 15:38:32,861 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Rancher
+2025-05-31 15:38:33,356 - scraperService - INFO - Extracted data for vehicle: Police Rancher
+2025-05-31 15:38:34,366 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Riot
+2025-05-31 15:38:34,654 - scraperService - INFO - Extracted data for vehicle: Police Riot
+2025-05-31 15:38:35,665 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Roadcruiser
+2025-05-31 15:38:36,341 - scraperService - INFO - Extracted data for vehicle: Police Roadcruiser
+2025-05-31 15:38:37,352 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Transporter
+2025-05-31 15:38:37,608 - scraperService - INFO - Extracted data for vehicle: Police Transporter
+2025-05-31 15:38:38,619 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Prison_Bus
+2025-05-31 15:38:39,530 - scraperService - INFO - Extracted data for vehicle: Police Prison Bus
+2025-05-31 15:38:40,541 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Predator
+2025-05-31 15:38:40,794 - scraperService - INFO - Extracted data for vehicle: Police Predator
+2025-05-31 15:38:41,804 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sheriff_Cruiser
+2025-05-31 15:38:42,563 - scraperService - INFO - Extracted data for vehicle: Sheriff Cruiser
+2025-05-31 15:38:43,573 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sheriff_SUV
+2025-05-31 15:38:43,815 - scraperService - INFO - Extracted data for vehicle: Sheriff SUV
+2025-05-31 15:38:44,825 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Unmarked_Cruiser
+2025-05-31 15:38:45,743 - scraperService - INFO - Extracted data for vehicle: Unmarked Cruiser
+2025-05-31 15:38:46,754 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Barracks
+2025-05-31 15:38:47,633 - scraperService - INFO - Extracted data for vehicle: Barracks
+2025-05-31 15:38:48,643 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Barracks_Semi
+2025-05-31 15:38:49,484 - scraperService - INFO - Extracted data for vehicle: Barracks Semi
+2025-05-31 15:38:50,494 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Crusader
+2025-05-31 15:38:50,755 - scraperService - INFO - Extracted data for vehicle: Crusader
+2025-05-31 15:38:51,765 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rhino_Tank
+2025-05-31 15:38:53,522 - scraperService - INFO - Extracted data for vehicle: Rhino Tank
+2025-05-31 15:38:54,533 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dinghy_(HD_Universe)
+2025-05-31 15:38:54,842 - scraperService - INFO - Extracted data for vehicle: Dinghy
+2025-05-31 15:38:55,853 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dinghy_(2-seater)
+2025-05-31 15:38:56,031 - scraperService - INFO - Extracted data for vehicle: Dinghy
+2025-05-31 15:38:57,041 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jetmax
+2025-05-31 15:38:59,104 - scraperService - INFO - Extracted data for vehicle: Jetmax
+2025-05-31 15:39:00,114 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Kraken
+2025-05-31 15:39:00,841 - scraperService - INFO - Extracted data for vehicle: Kraken
+2025-05-31 15:39:01,852 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Marquis
+2025-05-31 15:39:02,183 - scraperService - INFO - Extracted data for vehicle: Marquis
+2025-05-31 15:39:03,194 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Seashark
+2025-05-31 15:39:03,449 - scraperService - INFO - Extracted data for vehicle: Seashark
+2025-05-31 15:39:04,459 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Speeder_(boat)
+2025-05-31 15:39:05,590 - scraperService - INFO - Extracted data for vehicle: Speeder
+2025-05-31 15:39:06,601 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Beach_Bum_Update
+2025-05-31 15:39:06,745 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:39:07,755 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Squalo
+2025-05-31 15:39:08,533 - scraperService - INFO - Extracted data for vehicle: Squalo
+2025-05-31 15:39:09,541 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Submersible
+2025-05-31 15:39:09,762 - scraperService - INFO - Extracted data for vehicle: Submersible
+2025-05-31 15:39:10,773 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Suntrap
+2025-05-31 15:39:11,050 - scraperService - INFO - Extracted data for vehicle: Suntrap
+2025-05-31 15:39:12,056 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Toro
+2025-05-31 15:39:12,288 - scraperService - INFO - Extracted data for vehicle: Toro
+2025-05-31 15:39:13,299 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:39:13,759 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:39:14,769 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tropic
+2025-05-31 15:39:15,459 - scraperService - INFO - Extracted data for vehicle: Tropic
+2025-05-31 15:39:16,470 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Atomic_Blimp
+2025-05-31 15:39:16,967 - scraperService - INFO - Extracted data for vehicle: Atomic Blimp
+2025-05-31 15:39:17,978 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Besra
+2025-05-31 15:39:18,193 - scraperService - INFO - Extracted data for vehicle: Besra
+2025-05-31 15:39:19,203 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_San_Andreas_Flight_School_Update
+2025-05-31 15:39:19,740 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:39:20,750 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cargo_Plane
+2025-05-31 15:39:21,002 - scraperService - INFO - Extracted data for vehicle: Cargo Plane
+2025-05-31 15:39:22,012 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cuban_800
+2025-05-31 15:39:22,227 - scraperService - INFO - Extracted data for vehicle: Cuban 800
+2025-05-31 15:39:23,237 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dodo_(HD_Universe)
+2025-05-31 15:39:24,882 - scraperService - INFO - Extracted data for vehicle: Dodo
+2025-05-31 15:39:25,892 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Duster
+2025-05-31 15:39:26,145 - scraperService - INFO - Extracted data for vehicle: Duster
+2025-05-31 15:39:27,156 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jet
+2025-05-31 15:39:27,459 - scraperService - INFO - Extracted data for vehicle: Jet
+2025-05-31 15:39:28,469 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Luxor
+2025-05-31 15:39:28,692 - scraperService - INFO - Extracted data for vehicle: Luxor
+2025-05-31 15:39:29,703 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Luxor_Deluxe
+2025-05-31 15:39:29,965 - scraperService - INFO - Extracted data for vehicle: Luxor Deluxe
+2025-05-31 15:39:30,975 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:39:31,117 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:39:32,119 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mallard
+2025-05-31 15:39:33,033 - scraperService - INFO - Extracted data for vehicle: Mallard
+2025-05-31 15:39:34,043 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mammatus
+2025-05-31 15:39:34,794 - scraperService - INFO - Extracted data for vehicle: Mammatus
+2025-05-31 15:39:35,804 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Miljet
+2025-05-31 15:39:37,229 - scraperService - INFO - Extracted data for vehicle: Miljet
+2025-05-31 15:39:38,239 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_San_Andreas_Flight_School_Update
+2025-05-31 15:39:38,390 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:39:39,401 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/P-996_LAZER
+2025-05-31 15:39:39,639 - scraperService - INFO - Extracted data for vehicle: P-996 LAZER
+2025-05-31 15:39:40,649 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Shamal
+2025-05-31 15:39:40,978 - scraperService - INFO - Extracted data for vehicle: Shamal
+2025-05-31 15:39:41,988 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Titan
+2025-05-31 15:39:42,245 - scraperService - INFO - Extracted data for vehicle: Titan
+2025-05-31 15:39:43,255 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Velum
+2025-05-31 15:39:44,022 - scraperService - INFO - Extracted data for vehicle: Velum
+2025-05-31 15:39:45,033 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vestra
+2025-05-31 15:39:45,264 - scraperService - INFO - Extracted data for vehicle: Vestra
+2025-05-31 15:39:46,274 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Business_Update
+2025-05-31 15:39:46,724 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:39:47,734 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Xero_Blimp
+2025-05-31 15:39:48,291 - scraperService - INFO - Extracted data for vehicle: Xero Blimp
+2025-05-31 15:39:49,302 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buzzard
+2025-05-31 15:39:49,544 - scraperService - INFO - Extracted data for vehicle: Buzzard
+2025-05-31 15:39:50,554 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buzzard_Attack_Chopper
+2025-05-31 15:39:51,428 - scraperService - INFO - Extracted data for vehicle: Buzzard Attack Chopper
+2025-05-31 15:39:52,438 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cargobob
+2025-05-31 15:39:53,154 - scraperService - INFO - Extracted data for vehicle: Cargobob
+2025-05-31 15:39:54,165 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Frogger
+2025-05-31 15:39:54,624 - scraperService - INFO - Extracted data for vehicle: Frogger
+2025-05-31 15:39:55,634 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Frogger_(TPE)
+2025-05-31 15:39:56,896 - scraperService - INFO - Extracted data for vehicle: Frogger
+2025-05-31 15:39:57,906 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Maverick_(HD_Universe)
+2025-05-31 15:39:58,165 - scraperService - INFO - Extracted data for vehicle: Maverick
+2025-05-31 15:39:59,176 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Skylift
+2025-05-31 15:39:59,543 - scraperService - INFO - Extracted data for vehicle: Skylift
+2025-05-31 15:40:00,553 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Swift
+2025-05-31 15:40:01,395 - scraperService - INFO - Extracted data for vehicle: Swift
+2025-05-31 15:40:02,405 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_San_Andreas_Flight_School_Update
+2025-05-31 15:40:02,584 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:40:03,595 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Swift_Deluxe
+2025-05-31 15:40:04,318 - scraperService - INFO - Extracted data for vehicle: Swift Deluxe
+2025-05-31 15:40:05,328 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:40:05,475 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:40:06,485 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cablecar
+2025-05-31 15:40:07,315 - scraperService - INFO - Extracted data for vehicle: Cable Car
+2025-05-31 15:40:08,325 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train
+2025-05-31 15:40:09,077 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:40:10,087 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(wellcar)
+2025-05-31 15:40:10,618 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:40:11,628 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(wellcar)
+2025-05-31 15:40:11,855 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:40:12,866 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(wellcar)
+2025-05-31 15:40:13,493 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:40:14,504 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(boxcar)
+2025-05-31 15:40:15,082 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:40:16,093 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(tanker)
+2025-05-31 15:40:16,722 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:40:17,732 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Metrotrain
+2025-05-31 15:40:18,001 - scraperService - INFO - Extracted data for vehicle: Metrotrain
+2025-05-31 15:40:19,011 - scraperService - INFO - Successfully scraped 393 vehicles from GTA Wiki
+2025-05-31 15:40:19,013 - scraperService - INFO - Total unique vehicles scraped: 393
+2025-05-31 15:40:19,013 - __main__ - INFO - Scraped 393 raw vehicle records
+2025-05-31 15:40:19,021 - __main__ - INFO - Successfully processed 393 out of 393 vehicles
+2025-05-31 15:40:19,021 - __main__ - INFO - Saving vehicles to the database
+2025-05-31 15:40:19,195 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,207 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,225 - db_config - INFO - Vehicle 9F inserted successfully with ID 36
+2025-05-31 15:40:19,239 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,243 - db_config - INFO - Vehicle 9F Cabrio inserted successfully with ID 37
+2025-05-31 15:40:19,252 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,255 - db_config - INFO - Vehicle Alpha inserted successfully with ID 38
+2025-05-31 15:40:19,264 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,270 - db_config - INFO - Vehicle The Business Update inserted successfully with ID 39
+2025-05-31 15:40:19,281 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,285 - db_config - INFO - Vehicle Banshee inserted successfully with ID 40
+2025-05-31 15:40:19,298 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,302 - db_config - INFO - Vehicle Blista Compact inserted successfully with ID 41
+2025-05-31 15:40:19,312 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,317 - db_config - INFO - Vehicle Buffalo inserted successfully with ID 42
+2025-05-31 15:40:19,328 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,332 - db_config - INFO - Vehicle Buffalo S inserted successfully with ID 43
+2025-05-31 15:40:19,343 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,349 - db_config - INFO - Vehicle Carbonizzare inserted successfully with ID 44
+2025-05-31 15:40:19,357 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,361 - db_config - INFO - Vehicle Comet inserted successfully with ID 45
+2025-05-31 15:40:19,371 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,375 - db_config - INFO - Vehicle Coquette inserted successfully with ID 46
+2025-05-31 15:40:19,386 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,390 - db_config - INFO - Vehicle Elegy RH8 inserted successfully with ID 47
+2025-05-31 15:40:19,403 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,407 - db_config - INFO - Vehicle Feltzer inserted successfully with ID 48
+2025-05-31 15:40:19,420 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,426 - db_config - INFO - Vehicle Furore GT inserted successfully with ID 49
+2025-05-31 15:40:19,444 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,450 - db_config - INFO - Vehicle The Last Team Standing Update inserted successfully with ID 50
+2025-05-31 15:40:19,467 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,472 - db_config - INFO - Vehicle Fusilade inserted successfully with ID 51
+2025-05-31 15:40:19,491 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,502 - db_config - INFO - Vehicle Futo inserted successfully with ID 52
+2025-05-31 15:40:19,521 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,533 - db_config - INFO - Vehicle Go Go Monkey Blista inserted successfully with ID 53
+2025-05-31 15:40:19,551 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,559 - db_config - INFO - Vehicle Jester inserted successfully with ID 54
+2025-05-31 15:40:19,577 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,580 - db_config - INFO - Vehicle The Business Update already exists in the database with ID 39
+2025-05-31 15:40:19,597 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,604 - db_config - INFO - Vehicle Jester (Racecar) inserted successfully with ID 55
+2025-05-31 15:40:19,621 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,628 - db_config - INFO - Vehicle Festive Surprise inserted successfully with ID 56
+2025-05-31 15:40:19,644 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,647 - db_config - INFO - Vehicle Massacro already exists in the database with ID 12
+2025-05-31 15:40:19,664 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,670 - db_config - INFO - Vehicle The High Life Update inserted successfully with ID 57
+2025-05-31 15:40:19,687 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,693 - db_config - INFO - Vehicle Massacro (Racecar) inserted successfully with ID 58
+2025-05-31 15:40:19,708 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,711 - db_config - INFO - Vehicle Festive Surprise already exists in the database with ID 56
+2025-05-31 15:40:19,727 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,732 - db_config - ERROR - Database error when inserting vehicle Penumbra: value too long for type character varying(255)
+
+2025-05-31 15:40:19,749 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,762 - db_config - INFO - Vehicle Rapid GT inserted successfully with ID 60
+2025-05-31 15:40:19,775 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,777 - db_config - INFO - Vehicle Rapid GT already exists in the database with ID 60
+2025-05-31 15:40:19,790 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,795 - db_config - INFO - Vehicle Schwartzer inserted successfully with ID 61
+2025-05-31 15:40:19,807 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,812 - db_config - INFO - Vehicle Sprunk Buffalo inserted successfully with ID 62
+2025-05-31 15:40:19,831 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,836 - db_config - INFO - Vehicle Sultan inserted successfully with ID 63
+2025-05-31 15:40:19,847 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,852 - db_config - INFO - Vehicle Surano inserted successfully with ID 64
+2025-05-31 15:40:19,862 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,866 - db_config - INFO - Vehicle Blade inserted successfully with ID 65
+2025-05-31 15:40:19,876 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,884 - db_config - INFO - Vehicle The "I'm Not a Hipster" Update inserted successfully with ID 66
+2025-05-31 15:40:19,894 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,899 - db_config - INFO - Vehicle Buccaneer inserted successfully with ID 67
+2025-05-31 15:40:19,910 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,913 - db_config - INFO - Vehicle Burger Shot Stallion inserted successfully with ID 68
+2025-05-31 15:40:19,924 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,928 - db_config - INFO - Vehicle Chino inserted successfully with ID 69
+2025-05-31 15:40:19,937 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,940 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 inserted successfully with ID 70
+2025-05-31 15:40:19,949 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,953 - db_config - ERROR - Database error when inserting vehicle Coquette BlackFin: value too long for type character varying(255)
+
+2025-05-31 15:40:19,962 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,964 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:19,973 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,974 - db_config - INFO - Vehicle Dominator already exists in the database with ID 15
+2025-05-31 15:40:19,984 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:19,987 - db_config - ERROR - Database error when inserting vehicle Duke O'Death: value too long for type character varying(255)
+
+2025-05-31 15:40:19,996 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,008 - db_config - INFO - Vehicle Dukes inserted successfully with ID 73
+2025-05-31 15:40:20,018 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,021 - db_config - ERROR - Database error when inserting vehicle Gauntlet: value too long for type character varying(255)
+
+2025-05-31 15:40:20,031 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,036 - db_config - INFO - Vehicle Hotknife inserted successfully with ID 75
+2025-05-31 15:40:20,045 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,048 - db_config - ERROR - Database error when inserting vehicle Phoenix: value too long for type character varying(255)
+
+2025-05-31 15:40:20,063 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,069 - db_config - INFO - Vehicle Picador inserted successfully with ID 77
+2025-05-31 15:40:20,078 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,082 - db_config - INFO - Vehicle Pißwasser Dominator inserted successfully with ID 78
+2025-05-31 15:40:20,091 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,094 - db_config - ERROR - Database error when inserting vehicle Rat-Loader: value too long for type character varying(255)
+
+2025-05-31 15:40:20,103 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,107 - db_config - INFO - Vehicle Rat-Truck inserted successfully with ID 80
+2025-05-31 15:40:20,116 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,117 - db_config - INFO - Vehicle Festive Surprise already exists in the database with ID 56
+2025-05-31 15:40:20,127 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,131 - db_config - INFO - Vehicle Redwood Gauntlet inserted successfully with ID 81
+2025-05-31 15:40:20,142 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,150 - db_config - INFO - Vehicle Ruiner inserted successfully with ID 82
+2025-05-31 15:40:20,162 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,166 - db_config - INFO - Vehicle Sabre Turbo inserted successfully with ID 83
+2025-05-31 15:40:20,177 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,185 - db_config - INFO - Vehicle Slamvan inserted successfully with ID 84
+2025-05-31 15:40:20,202 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,204 - db_config - INFO - Vehicle Festive Surprise already exists in the database with ID 56
+2025-05-31 15:40:20,218 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,223 - db_config - INFO - Vehicle Stallion inserted successfully with ID 85
+2025-05-31 15:40:20,236 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,242 - db_config - INFO - Vehicle Vigero inserted successfully with ID 86
+2025-05-31 15:40:20,255 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,259 - db_config - INFO - Vehicle Virgo inserted successfully with ID 87
+2025-05-31 15:40:20,272 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,275 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:20,291 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,299 - db_config - INFO - Vehicle Voodoo inserted successfully with ID 88
+2025-05-31 15:40:20,313 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,315 - db_config - INFO - Vehicle Adder already exists in the database with ID 1
+2025-05-31 15:40:20,329 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,334 - db_config - INFO - Vehicle Bullet inserted successfully with ID 89
+2025-05-31 15:40:20,347 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,351 - db_config - INFO - Vehicle Cheetah inserted successfully with ID 90
+2025-05-31 15:40:20,365 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,370 - db_config - INFO - Vehicle Entity XF inserted successfully with ID 91
+2025-05-31 15:40:20,383 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,387 - db_config - INFO - Vehicle Infernus inserted successfully with ID 92
+2025-05-31 15:40:20,400 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,402 - db_config - INFO - Vehicle Osiris already exists in the database with ID 4
+2025-05-31 15:40:20,419 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,421 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:20,434 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,436 - db_config - INFO - Vehicle T20 already exists in the database with ID 3
+2025-05-31 15:40:20,449 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,452 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:20,465 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,470 - db_config - INFO - Vehicle Turismo R inserted successfully with ID 93
+2025-05-31 15:40:20,482 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,484 - db_config - INFO - Vehicle The Business Update already exists in the database with ID 39
+2025-05-31 15:40:20,498 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,502 - db_config - INFO - Vehicle Vacca inserted successfully with ID 94
+2025-05-31 15:40:20,515 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,522 - db_config - INFO - Vehicle Voltic inserted successfully with ID 95
+2025-05-31 15:40:20,534 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,539 - db_config - INFO - Vehicle Zentorno inserted successfully with ID 96
+2025-05-31 15:40:20,551 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,553 - db_config - INFO - Vehicle The High Life Update already exists in the database with ID 57
+2025-05-31 15:40:20,566 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,570 - db_config - ERROR - Database error when inserting vehicle Coquette Classic: value too long for type character varying(255)
+
+2025-05-31 15:40:20,583 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,588 - db_config - INFO - Vehicle The San Andreas Flight School Update inserted successfully with ID 98
+2025-05-31 15:40:20,601 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,607 - db_config - INFO - Vehicle JB 700 inserted successfully with ID 99
+2025-05-31 15:40:20,618 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,622 - db_config - INFO - Vehicle Manana inserted successfully with ID 100
+2025-05-31 15:40:20,633 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,636 - db_config - INFO - Vehicle Monroe inserted successfully with ID 101
+2025-05-31 15:40:20,651 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,654 - db_config - ERROR - Database error when inserting vehicle Peyote: value too long for type character varying(255)
+
+2025-05-31 15:40:20,664 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,668 - db_config - INFO - Vehicle Pigalle inserted successfully with ID 103
+2025-05-31 15:40:20,678 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,680 - db_config - INFO - Vehicle The "I'm Not a Hipster" Update already exists in the database with ID 66
+2025-05-31 15:40:20,691 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,694 - db_config - INFO - Vehicle Roosevelt inserted successfully with ID 104
+2025-05-31 15:40:20,705 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,709 - db_config - INFO - Vehicle The Valentine's Day Massacre Special inserted successfully with ID 105
+2025-05-31 15:40:20,720 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,724 - db_config - INFO - Vehicle Stinger inserted successfully with ID 106
+2025-05-31 15:40:20,734 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,740 - db_config - INFO - Vehicle Stirling GT inserted successfully with ID 107
+2025-05-31 15:40:20,751 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,753 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:20,764 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,768 - db_config - INFO - Vehicle Tornado inserted successfully with ID 108
+2025-05-31 15:40:20,779 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,781 - db_config - INFO - Vehicle Tornado already exists in the database with ID 108
+2025-05-31 15:40:20,791 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,793 - db_config - INFO - Vehicle Tornado already exists in the database with ID 108
+2025-05-31 15:40:20,803 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,805 - db_config - INFO - Vehicle Tornado already exists in the database with ID 108
+2025-05-31 15:40:20,816 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,821 - db_config - INFO - Vehicle Z-Type inserted successfully with ID 109
+2025-05-31 15:40:20,831 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,836 - db_config - INFO - Vehicle Asea inserted successfully with ID 110
+2025-05-31 15:40:20,847 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,849 - db_config - INFO - Vehicle Asea already exists in the database with ID 110
+2025-05-31 15:40:20,859 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,864 - db_config - INFO - Vehicle Asterope inserted successfully with ID 111
+2025-05-31 15:40:20,873 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,876 - db_config - INFO - Vehicle Emperor inserted successfully with ID 112
+2025-05-31 15:40:20,886 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,887 - db_config - INFO - Vehicle Emperor already exists in the database with ID 112
+2025-05-31 15:40:20,896 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,898 - db_config - INFO - Vehicle Emperor already exists in the database with ID 112
+2025-05-31 15:40:20,907 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,914 - db_config - INFO - Vehicle Fugitive inserted successfully with ID 113
+2025-05-31 15:40:20,923 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,927 - db_config - INFO - Vehicle Glendale inserted successfully with ID 114
+2025-05-31 15:40:20,937 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,938 - db_config - INFO - Vehicle The "I'm Not a Hipster" Update already exists in the database with ID 66
+2025-05-31 15:40:20,948 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,955 - db_config - INFO - Vehicle Ingot inserted successfully with ID 115
+2025-05-31 15:40:20,964 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,969 - db_config - INFO - Vehicle Intruder inserted successfully with ID 116
+2025-05-31 15:40:20,980 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,984 - db_config - INFO - Vehicle Premier inserted successfully with ID 117
+2025-05-31 15:40:20,994 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:20,998 - db_config - INFO - Vehicle Primo inserted successfully with ID 118
+2025-05-31 15:40:21,008 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,012 - db_config - INFO - Vehicle Regina inserted successfully with ID 119
+2025-05-31 15:40:21,023 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,026 - db_config - ERROR - Database error when inserting vehicle Romero Hearse: value too long for type character varying(255)
+
+2025-05-31 15:40:21,036 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,044 - db_config - INFO - Vehicle Schafter inserted successfully with ID 121
+2025-05-31 15:40:21,054 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,058 - db_config - INFO - Vehicle Stanier inserted successfully with ID 122
+2025-05-31 15:40:21,069 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,072 - db_config - INFO - Vehicle Stratum inserted successfully with ID 123
+2025-05-31 15:40:21,083 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,086 - db_config - INFO - Vehicle Stretch inserted successfully with ID 124
+2025-05-31 15:40:21,097 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,101 - db_config - INFO - Vehicle Super Diamond inserted successfully with ID 125
+2025-05-31 15:40:21,112 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,117 - db_config - INFO - Vehicle Surge inserted successfully with ID 126
+2025-05-31 15:40:21,127 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,129 - db_config - INFO - Vehicle Tailgater already exists in the database with ID 24
+2025-05-31 15:40:21,139 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,143 - db_config - INFO - Vehicle Warrener inserted successfully with ID 127
+2025-05-31 15:40:21,154 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,155 - db_config - INFO - Vehicle The "I'm Not a Hipster" Update already exists in the database with ID 66
+2025-05-31 15:40:21,165 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,169 - db_config - INFO - Vehicle Washington inserted successfully with ID 128
+2025-05-31 15:40:21,179 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,183 - db_config - INFO - Vehicle Baller inserted successfully with ID 129
+2025-05-31 15:40:21,191 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,193 - db_config - INFO - Vehicle Baller already exists in the database with ID 129
+2025-05-31 15:40:21,202 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,207 - db_config - INFO - Vehicle BeeJay XL inserted successfully with ID 130
+2025-05-31 15:40:21,216 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,221 - db_config - INFO - Vehicle Cavalcade inserted successfully with ID 131
+2025-05-31 15:40:21,230 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,232 - db_config - INFO - Vehicle Cavalcade already exists in the database with ID 131
+2025-05-31 15:40:21,241 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,246 - db_config - INFO - Vehicle Dubsta inserted successfully with ID 132
+2025-05-31 15:40:21,256 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,258 - db_config - INFO - Vehicle Dubsta already exists in the database with ID 132
+2025-05-31 15:40:21,268 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,271 - db_config - INFO - Vehicle FQ 2 inserted successfully with ID 133
+2025-05-31 15:40:21,280 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,282 - db_config - INFO - Vehicle Granger already exists in the database with ID 23
+2025-05-31 15:40:21,292 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,297 - db_config - INFO - Vehicle Gresley inserted successfully with ID 134
+2025-05-31 15:40:21,306 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,310 - db_config - INFO - Vehicle Habanero inserted successfully with ID 135
+2025-05-31 15:40:21,321 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,322 - db_config - INFO - Vehicle Huntley S already exists in the database with ID 22
+2025-05-31 15:40:21,333 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,334 - db_config - INFO - Vehicle The High Life Update already exists in the database with ID 57
+2025-05-31 15:40:21,345 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,348 - db_config - INFO - Vehicle Landstalker inserted successfully with ID 136
+2025-05-31 15:40:21,359 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,363 - db_config - INFO - Vehicle Mesa inserted successfully with ID 137
+2025-05-31 15:40:21,374 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,376 - db_config - INFO - Vehicle Mesa already exists in the database with ID 137
+2025-05-31 15:40:21,386 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,390 - db_config - INFO - Vehicle Patriot inserted successfully with ID 138
+2025-05-31 15:40:21,401 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,405 - db_config - INFO - Vehicle Radius inserted successfully with ID 139
+2025-05-31 15:40:21,415 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,420 - db_config - INFO - Vehicle Rocoto inserted successfully with ID 140
+2025-05-31 15:40:21,431 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,436 - db_config - INFO - Vehicle Seminole inserted successfully with ID 141
+2025-05-31 15:40:21,446 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,450 - db_config - INFO - Vehicle Serrano inserted successfully with ID 142
+2025-05-31 15:40:21,461 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,465 - db_config - INFO - Vehicle Blista inserted successfully with ID 143
+2025-05-31 15:40:21,475 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,478 - db_config - INFO - Vehicle Dilettante inserted successfully with ID 144
+2025-05-31 15:40:21,488 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,489 - db_config - INFO - Vehicle Dilettante already exists in the database with ID 144
+2025-05-31 15:40:21,499 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,505 - db_config - INFO - Vehicle Issi inserted successfully with ID 145
+2025-05-31 15:40:21,515 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,519 - db_config - INFO - Vehicle Panto inserted successfully with ID 146
+2025-05-31 15:40:21,530 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,532 - db_config - INFO - Vehicle The "I'm Not a Hipster" Update already exists in the database with ID 66
+2025-05-31 15:40:21,542 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,546 - db_config - INFO - Vehicle Prairie inserted successfully with ID 147
+2025-05-31 15:40:21,560 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,565 - db_config - INFO - Vehicle Rhapsody inserted successfully with ID 148
+2025-05-31 15:40:21,575 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,577 - db_config - INFO - Vehicle The "I'm Not a Hipster" Update already exists in the database with ID 66
+2025-05-31 15:40:21,587 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,591 - db_config - ERROR - Database error when inserting vehicle Cognoscenti Cabrio: value too long for type character varying(255)
+
+2025-05-31 15:40:21,601 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,606 - db_config - INFO - Vehicle Exemplar inserted successfully with ID 150
+2025-05-31 15:40:21,616 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,620 - db_config - ERROR - Database error when inserting vehicle F620: value too long for type character varying(255)
+
+2025-05-31 15:40:21,631 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,636 - db_config - INFO - Vehicle Felon inserted successfully with ID 152
+2025-05-31 15:40:21,646 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,650 - db_config - INFO - Vehicle Felon GT inserted successfully with ID 153
+2025-05-31 15:40:21,661 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,665 - db_config - INFO - Vehicle Jackal inserted successfully with ID 154
+2025-05-31 15:40:21,676 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,680 - db_config - INFO - Vehicle Oracle inserted successfully with ID 155
+2025-05-31 15:40:21,690 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,693 - db_config - ERROR - Database error when inserting vehicle Oracle XS: value too long for type character varying(255)
+
+2025-05-31 15:40:21,704 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,708 - db_config - INFO - Vehicle Sentinel inserted successfully with ID 157
+2025-05-31 15:40:21,718 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,724 - db_config - INFO - Vehicle Sentinel XS inserted successfully with ID 158
+2025-05-31 15:40:21,735 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,742 - db_config - INFO - Vehicle Windsor inserted successfully with ID 159
+2025-05-31 15:40:21,752 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,754 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:21,764 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,770 - db_config - INFO - Vehicle Zion inserted successfully with ID 160
+2025-05-31 15:40:21,781 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,786 - db_config - INFO - Vehicle Zion Cabrio inserted successfully with ID 161
+2025-05-31 15:40:21,797 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,801 - db_config - INFO - Vehicle Akuma inserted successfully with ID 162
+2025-05-31 15:40:21,812 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,818 - db_config - INFO - Vehicle Bagger inserted successfully with ID 163
+2025-05-31 15:40:21,830 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,832 - db_config - INFO - Vehicle Bati 801 already exists in the database with ID 28
+2025-05-31 15:40:21,842 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,846 - db_config - INFO - Vehicle Bati 801RR inserted successfully with ID 164
+2025-05-31 15:40:21,856 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,860 - db_config - INFO - Vehicle Carbon RS inserted successfully with ID 165
+2025-05-31 15:40:21,870 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,880 - db_config - INFO - Vehicle Daemon inserted successfully with ID 166
+2025-05-31 15:40:21,891 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,895 - db_config - INFO - Vehicle Double T inserted successfully with ID 167
+2025-05-31 15:40:21,905 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,909 - db_config - ERROR - Database error when inserting vehicle Faggio: value too long for type character varying(255)
+
+2025-05-31 15:40:21,920 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,922 - db_config - INFO - Vehicle Hakuchou already exists in the database with ID 29
+2025-05-31 15:40:21,932 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,934 - db_config - INFO - Vehicle The Last Team Standing Update already exists in the database with ID 50
+2025-05-31 15:40:21,945 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,950 - db_config - INFO - Vehicle Hexer inserted successfully with ID 169
+2025-05-31 15:40:21,961 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,964 - db_config - ERROR - Database error when inserting vehicle Innovation: value too long for type character varying(255)
+
+2025-05-31 15:40:21,975 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,976 - db_config - INFO - Vehicle The Last Team Standing Update already exists in the database with ID 50
+2025-05-31 15:40:21,987 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:21,990 - db_config - INFO - Vehicle Nemesis inserted successfully with ID 171
+2025-05-31 15:40:22,001 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,007 - db_config - INFO - Vehicle PCJ 600 inserted successfully with ID 172
+2025-05-31 15:40:22,017 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,021 - db_config - INFO - Vehicle Ruffian inserted successfully with ID 173
+2025-05-31 15:40:22,032 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,035 - db_config - ERROR - Database error when inserting vehicle Sanchez: value too long for type character varying(255)
+
+2025-05-31 15:40:22,046 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,050 - db_config - INFO - Vehicle Sovereign inserted successfully with ID 175
+2025-05-31 15:40:22,060 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,064 - db_config - INFO - Vehicle The Independence Day Special inserted successfully with ID 176
+2025-05-31 15:40:22,077 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,081 - db_config - INFO - Vehicle Thrust inserted successfully with ID 177
+2025-05-31 15:40:22,096 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,100 - db_config - INFO - Vehicle The High Life Update already exists in the database with ID 57
+2025-05-31 15:40:22,117 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,126 - db_config - INFO - Vehicle Vader inserted successfully with ID 178
+2025-05-31 15:40:22,141 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,145 - db_config - INFO - Vehicle Vindicator inserted successfully with ID 179
+2025-05-31 15:40:22,158 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,160 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:22,173 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,178 - db_config - INFO - Vehicle Bifta inserted successfully with ID 180
+2025-05-31 15:40:22,190 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,196 - db_config - INFO - Vehicle Beach Bum Update inserted successfully with ID 181
+2025-05-31 15:40:22,209 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,217 - db_config - INFO - Vehicle Blazer inserted successfully with ID 182
+2025-05-31 15:40:22,230 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,234 - db_config - INFO - Vehicle Blazer Lifeguard inserted successfully with ID 183
+2025-05-31 15:40:22,247 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,253 - db_config - INFO - Vehicle Bodhi inserted successfully with ID 184
+2025-05-31 15:40:22,266 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,271 - db_config - INFO - Vehicle Brawler inserted successfully with ID 185
+2025-05-31 15:40:22,284 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,286 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:22,300 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,304 - db_config - ERROR - Database error when inserting vehicle Dubsta 6x6: value too long for type character varying(255)
+
+2025-05-31 15:40:22,317 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,320 - db_config - INFO - Vehicle The "I'm Not a Hipster" Update already exists in the database with ID 66
+2025-05-31 15:40:22,331 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,335 - db_config - INFO - Vehicle Dune Buggy inserted successfully with ID 187
+2025-05-31 15:40:22,346 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,350 - db_config - ERROR - Database error when inserting vehicle Duneloader: value too long for type character varying(255)
+
+2025-05-31 15:40:22,361 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,365 - db_config - INFO - Vehicle Hot Rod Blazer inserted successfully with ID 189
+2025-05-31 15:40:22,375 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,382 - db_config - INFO - Vehicle Injection inserted successfully with ID 190
+2025-05-31 15:40:22,392 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,396 - db_config - INFO - Vehicle Kalahari inserted successfully with ID 191
+2025-05-31 15:40:22,407 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,409 - db_config - INFO - Vehicle Beach Bum Update already exists in the database with ID 181
+2025-05-31 15:40:22,420 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,423 - db_config - INFO - Vehicle Marshall inserted successfully with ID 192
+2025-05-31 15:40:22,433 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,435 - db_config - INFO - Vehicle Mesa already exists in the database with ID 137
+2025-05-31 15:40:22,446 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,450 - db_config - INFO - Vehicle Rancher XL inserted successfully with ID 193
+2025-05-31 15:40:22,461 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,462 - db_config - INFO - Vehicle Rancher XL already exists in the database with ID 193
+2025-05-31 15:40:22,472 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,477 - db_config - INFO - Vehicle Rebel inserted successfully with ID 194
+2025-05-31 15:40:22,486 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,489 - db_config - ERROR - Database error when inserting vehicle Rusty Rebel: value too long for type character varying(255)
+
+2025-05-31 15:40:22,499 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,504 - db_config - INFO - Vehicle Sandking SWB inserted successfully with ID 196
+2025-05-31 15:40:22,513 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,519 - db_config - INFO - Vehicle Sandking XL inserted successfully with ID 197
+2025-05-31 15:40:22,528 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,531 - db_config - INFO - Vehicle Space Docker inserted successfully with ID 198
+2025-05-31 15:40:22,540 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,543 - db_config - INFO - Vehicle Liberator inserted successfully with ID 199
+2025-05-31 15:40:22,552 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,554 - db_config - INFO - Vehicle The Independence Day Special already exists in the database with ID 176
+2025-05-31 15:40:22,563 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,566 - db_config - INFO - Vehicle BMX inserted successfully with ID 200
+2025-05-31 15:40:22,575 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,578 - db_config - INFO - Vehicle Cruiser inserted successfully with ID 201
+2025-05-31 15:40:22,587 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,590 - db_config - INFO - Vehicle Endurex Race Bike inserted successfully with ID 202
+2025-05-31 15:40:22,599 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,602 - db_config - INFO - Vehicle Fixter inserted successfully with ID 203
+2025-05-31 15:40:22,611 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,613 - db_config - INFO - Vehicle Scorcher inserted successfully with ID 204
+2025-05-31 15:40:22,622 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,625 - db_config - INFO - Vehicle Tri-Cycles Race Bike inserted successfully with ID 205
+2025-05-31 15:40:22,635 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,638 - db_config - INFO - Vehicle Whippet Race Bike inserted successfully with ID 206
+2025-05-31 15:40:22,648 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,655 - db_config - INFO - Vehicle Bison inserted successfully with ID 207
+2025-05-31 15:40:22,666 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,668 - db_config - INFO - Vehicle Bison already exists in the database with ID 207
+2025-05-31 15:40:22,679 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,680 - db_config - INFO - Vehicle Bison already exists in the database with ID 207
+2025-05-31 15:40:22,691 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,695 - db_config - INFO - Vehicle Bobcat XL inserted successfully with ID 208
+2025-05-31 15:40:22,706 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,709 - db_config - INFO - Vehicle Boxville inserted successfully with ID 209
+2025-05-31 15:40:22,719 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,721 - db_config - INFO - Vehicle Boxville already exists in the database with ID 209
+2025-05-31 15:40:22,732 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,734 - db_config - INFO - Vehicle Boxville already exists in the database with ID 209
+2025-05-31 15:40:22,745 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,748 - db_config - INFO - Vehicle Burrito inserted successfully with ID 210
+2025-05-31 15:40:22,759 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,763 - db_config - INFO - Vehicle Bugstars Burrito inserted successfully with ID 211
+2025-05-31 15:40:22,773 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,775 - db_config - INFO - Vehicle Burrito already exists in the database with ID 210
+2025-05-31 15:40:22,786 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,788 - db_config - INFO - Vehicle Burrito already exists in the database with ID 210
+2025-05-31 15:40:22,798 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,802 - db_config - INFO - Vehicle Camper inserted successfully with ID 212
+2025-05-31 15:40:22,812 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,816 - db_config - INFO - Vehicle Clown Van inserted successfully with ID 213
+2025-05-31 15:40:22,827 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,830 - db_config - INFO - Vehicle Gang Burrito inserted successfully with ID 214
+2025-05-31 15:40:22,841 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,844 - db_config - INFO - Vehicle Journey inserted successfully with ID 215
+2025-05-31 15:40:22,854 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,859 - db_config - INFO - Vehicle Minivan inserted successfully with ID 216
+2025-05-31 15:40:22,869 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,873 - db_config - INFO - Vehicle Paradise inserted successfully with ID 217
+2025-05-31 15:40:22,883 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,885 - db_config - INFO - Vehicle Beach Bum Update already exists in the database with ID 181
+2025-05-31 15:40:22,896 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,899 - db_config - INFO - Vehicle Pony inserted successfully with ID 218
+2025-05-31 15:40:22,909 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,911 - db_config - INFO - Vehicle Pony already exists in the database with ID 218
+2025-05-31 15:40:22,922 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,927 - db_config - INFO - Vehicle Rumpo inserted successfully with ID 219
+2025-05-31 15:40:22,937 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,939 - db_config - INFO - Vehicle Rumpo already exists in the database with ID 219
+2025-05-31 15:40:22,950 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,953 - db_config - ERROR - Database error when inserting vehicle Speedo: value too long for type character varying(255)
+
+2025-05-31 15:40:22,964 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,967 - db_config - ERROR - Database error when inserting vehicle Surfer: value too long for type character varying(255)
+
+2025-05-31 15:40:22,978 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,981 - db_config - INFO - Vehicle Taco Van inserted successfully with ID 222
+2025-05-31 15:40:22,991 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:22,996 - db_config - INFO - Vehicle Youga inserted successfully with ID 223
+2025-05-31 15:40:23,007 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,010 - db_config - INFO - Vehicle Airtug inserted successfully with ID 224
+2025-05-31 15:40:23,021 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,024 - db_config - INFO - Vehicle Caddy inserted successfully with ID 225
+2025-05-31 15:40:23,035 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,037 - db_config - INFO - Vehicle Caddy already exists in the database with ID 225
+2025-05-31 15:40:23,048 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,051 - db_config - INFO - Vehicle Docktug inserted successfully with ID 226
+2025-05-31 15:40:23,062 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,065 - db_config - INFO - Vehicle Fieldmaster inserted successfully with ID 227
+2025-05-31 15:40:23,076 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,078 - db_config - INFO - Vehicle Fieldmaster already exists in the database with ID 227
+2025-05-31 15:40:23,088 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,092 - db_config - INFO - Vehicle Forklift (HD Universe) inserted successfully with ID 228
+2025-05-31 15:40:23,101 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,104 - db_config - INFO - Vehicle Lawn Mower inserted successfully with ID 229
+2025-05-31 15:40:23,113 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,116 - db_config - INFO - Vehicle Ripley inserted successfully with ID 230
+2025-05-31 15:40:23,125 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,132 - db_config - INFO - Vehicle Sadler inserted successfully with ID 231
+2025-05-31 15:40:23,142 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,143 - db_config - INFO - Vehicle Sadler already exists in the database with ID 231
+2025-05-31 15:40:23,154 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,157 - db_config - INFO - Vehicle Scrap Truck inserted successfully with ID 232
+2025-05-31 15:40:23,167 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,169 - db_config - INFO - Vehicle Tow Truck inserted successfully with ID 233
+2025-05-31 15:40:23,179 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,180 - db_config - INFO - Vehicle Tow Truck already exists in the database with ID 233
+2025-05-31 15:40:23,191 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,194 - db_config - INFO - Vehicle Tractor inserted successfully with ID 234
+2025-05-31 15:40:23,204 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,207 - db_config - INFO - Vehicle Utility Truck inserted successfully with ID 235
+2025-05-31 15:40:23,217 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,219 - db_config - INFO - Vehicle Utility Truck already exists in the database with ID 235
+2025-05-31 15:40:23,228 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,229 - db_config - INFO - Vehicle Utility Truck already exists in the database with ID 235
+2025-05-31 15:40:23,239 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,242 - db_config - INFO - Vehicle Home inserted successfully with ID 236
+2025-05-31 15:40:23,251 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,253 - db_config - INFO - Vehicle Army Trailer inserted successfully with ID 237
+2025-05-31 15:40:23,262 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,264 - db_config - INFO - Vehicle Home already exists in the database with ID 236
+2025-05-31 15:40:23,273 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,275 - db_config - INFO - Vehicle Army Trailer already exists in the database with ID 237
+2025-05-31 15:40:23,285 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,288 - db_config - INFO - Vehicle Baletrailer inserted successfully with ID 238
+2025-05-31 15:40:23,297 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,300 - db_config - INFO - Vehicle Boat Trailer inserted successfully with ID 239
+2025-05-31 15:40:23,309 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,311 - db_config - INFO - Vehicle Dock Trailer inserted successfully with ID 240
+2025-05-31 15:40:23,320 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,321 - db_config - INFO - Vehicle Home already exists in the database with ID 236
+2025-05-31 15:40:23,330 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,333 - db_config - INFO - Vehicle Graintrailer inserted successfully with ID 241
+2025-05-31 15:40:23,342 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,344 - db_config - INFO - Vehicle Prop Trailer inserted successfully with ID 242
+2025-05-31 15:40:23,354 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,357 - db_config - INFO - Vehicle Trailer inserted successfully with ID 243
+2025-05-31 15:40:23,366 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,368 - db_config - INFO - Vehicle Trailer already exists in the database with ID 243
+2025-05-31 15:40:23,377 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,378 - db_config - INFO - Vehicle Trailer already exists in the database with ID 243
+2025-05-31 15:40:23,388 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,389 - db_config - INFO - Vehicle Trailer already exists in the database with ID 243
+2025-05-31 15:40:23,399 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,400 - db_config - INFO - Vehicle Trailer already exists in the database with ID 243
+2025-05-31 15:40:23,410 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,411 - db_config - INFO - Vehicle Trailer already exists in the database with ID 243
+2025-05-31 15:40:23,421 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,423 - db_config - INFO - Vehicle Trailer already exists in the database with ID 243
+2025-05-31 15:40:23,434 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,436 - db_config - INFO - Vehicle Trailer already exists in the database with ID 243
+2025-05-31 15:40:23,447 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,450 - db_config - INFO - Vehicle Trailer (rake) inserted successfully with ID 244
+2025-05-31 15:40:23,460 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,462 - db_config - INFO - Vehicle Trailer already exists in the database with ID 243
+2025-05-31 15:40:23,473 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,474 - db_config - INFO - Vehicle Trailer already exists in the database with ID 243
+2025-05-31 15:40:23,485 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,489 - db_config - INFO - Vehicle Cutter inserted successfully with ID 245
+2025-05-31 15:40:23,499 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,503 - db_config - INFO - Vehicle Dock Handler inserted successfully with ID 246
+2025-05-31 15:40:23,513 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,516 - db_config - INFO - Vehicle Dozer inserted successfully with ID 247
+2025-05-31 15:40:23,525 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,528 - db_config - INFO - Vehicle Dump inserted successfully with ID 248
+2025-05-31 15:40:23,538 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,541 - db_config - INFO - Vehicle Flatbed inserted successfully with ID 249
+2025-05-31 15:40:23,551 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,553 - db_config - INFO - Vehicle Mixer inserted successfully with ID 250
+2025-05-31 15:40:23,564 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,567 - db_config - INFO - Vehicle Rubble inserted successfully with ID 251
+2025-05-31 15:40:23,577 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,579 - db_config - INFO - Vehicle Tipper inserted successfully with ID 252
+2025-05-31 15:40:23,588 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,591 - db_config - INFO - Vehicle Airport Bus inserted successfully with ID 253
+2025-05-31 15:40:23,600 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,603 - db_config - INFO - Vehicle Bus inserted successfully with ID 254
+2025-05-31 15:40:23,612 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,615 - db_config - INFO - Vehicle Dashound inserted successfully with ID 255
+2025-05-31 15:40:23,624 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,627 - db_config - INFO - Vehicle Rental Shuttle Bus inserted successfully with ID 256
+2025-05-31 15:40:23,636 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,639 - db_config - ERROR - Database error when inserting vehicle Taxi: value too long for type character varying(255)
+
+2025-05-31 15:40:23,650 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,654 - db_config - INFO - Vehicle Tour Bus inserted successfully with ID 258
+2025-05-31 15:40:23,665 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,668 - db_config - INFO - Vehicle Trashmaster inserted successfully with ID 259
+2025-05-31 15:40:23,681 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,684 - db_config - INFO - Vehicle Benson inserted successfully with ID 260
+2025-05-31 15:40:23,702 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,712 - db_config - INFO - Vehicle Biff inserted successfully with ID 261
+2025-05-31 15:40:23,725 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,729 - db_config - INFO - Vehicle Hauler inserted successfully with ID 262
+2025-05-31 15:40:23,742 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,745 - db_config - INFO - Vehicle Mule inserted successfully with ID 263
+2025-05-31 15:40:23,760 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,765 - db_config - INFO - Vehicle Packer inserted successfully with ID 264
+2025-05-31 15:40:23,779 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,783 - db_config - INFO - Vehicle Phantom inserted successfully with ID 265
+2025-05-31 15:40:23,795 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,799 - db_config - INFO - Vehicle Pounder inserted successfully with ID 266
+2025-05-31 15:40:23,813 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,817 - db_config - INFO - Vehicle Stockade inserted successfully with ID 267
+2025-05-31 15:40:23,830 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,832 - db_config - INFO - Vehicle Stockade already exists in the database with ID 267
+2025-05-31 15:40:23,844 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,847 - db_config - INFO - Vehicle Ambulance inserted successfully with ID 268
+2025-05-31 15:40:23,860 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,864 - db_config - INFO - Vehicle FIB inserted successfully with ID 269
+2025-05-31 15:40:23,876 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,878 - db_config - INFO - Vehicle Home already exists in the database with ID 236
+2025-05-31 15:40:23,891 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,893 - db_config - INFO - Vehicle Home already exists in the database with ID 236
+2025-05-31 15:40:23,906 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,908 - db_config - INFO - Vehicle FIB already exists in the database with ID 269
+2025-05-31 15:40:23,920 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,924 - db_config - INFO - Vehicle Fire Truck inserted successfully with ID 270
+2025-05-31 15:40:23,938 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,943 - db_config - INFO - Vehicle Lifeguard inserted successfully with ID 271
+2025-05-31 15:40:23,954 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,958 - db_config - ERROR - Database error when inserting vehicle Park Ranger: value too long for type character varying(255)
+
+2025-05-31 15:40:23,969 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,972 - db_config - INFO - Vehicle Police Bike inserted successfully with ID 273
+2025-05-31 15:40:23,983 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,986 - db_config - INFO - Vehicle Police Cruiser inserted successfully with ID 274
+2025-05-31 15:40:23,996 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:23,998 - db_config - INFO - Vehicle Police Cruiser already exists in the database with ID 274
+2025-05-31 15:40:24,009 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,011 - db_config - INFO - Vehicle Home already exists in the database with ID 236
+2025-05-31 15:40:24,021 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,023 - db_config - INFO - Vehicle Police Cruiser already exists in the database with ID 274
+2025-05-31 15:40:24,033 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,035 - db_config - INFO - Vehicle Home already exists in the database with ID 236
+2025-05-31 15:40:24,045 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,048 - db_config - INFO - Vehicle Police Maverick inserted successfully with ID 275
+2025-05-31 15:40:24,058 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,061 - db_config - INFO - Vehicle Police Rancher inserted successfully with ID 276
+2025-05-31 15:40:24,070 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,073 - db_config - INFO - Vehicle Police Riot inserted successfully with ID 277
+2025-05-31 15:40:24,082 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,084 - db_config - INFO - Vehicle Police Roadcruiser inserted successfully with ID 278
+2025-05-31 15:40:24,093 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,096 - db_config - INFO - Vehicle Police Transporter inserted successfully with ID 279
+2025-05-31 15:40:24,105 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,108 - db_config - INFO - Vehicle Prison Bus inserted successfully with ID 280
+2025-05-31 15:40:24,117 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,120 - db_config - INFO - Vehicle Police Predator inserted successfully with ID 281
+2025-05-31 15:40:24,130 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,132 - db_config - INFO - Vehicle Sheriff Cruiser inserted successfully with ID 282
+2025-05-31 15:40:24,141 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,144 - db_config - INFO - Vehicle Sheriff SUV inserted successfully with ID 283
+2025-05-31 15:40:24,153 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,157 - db_config - INFO - Vehicle Unmarked Cruiser inserted successfully with ID 284
+2025-05-31 15:40:24,167 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,170 - db_config - INFO - Vehicle Barracks inserted successfully with ID 285
+2025-05-31 15:40:24,179 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,182 - db_config - INFO - Vehicle Barracks Semi inserted successfully with ID 286
+2025-05-31 15:40:24,192 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,196 - db_config - INFO - Vehicle Crusader inserted successfully with ID 287
+2025-05-31 15:40:24,206 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,209 - db_config - INFO - Vehicle Rhino Tank inserted successfully with ID 288
+2025-05-31 15:40:24,219 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,221 - db_config - INFO - Vehicle Dinghy inserted successfully with ID 289
+2025-05-31 15:40:24,232 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,234 - db_config - INFO - Vehicle Dinghy already exists in the database with ID 289
+2025-05-31 15:40:24,245 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,248 - db_config - INFO - Vehicle Jetmax inserted successfully with ID 290
+2025-05-31 15:40:24,258 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,261 - db_config - INFO - Vehicle Kraken inserted successfully with ID 291
+2025-05-31 15:40:24,272 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,275 - db_config - INFO - Vehicle Marquis inserted successfully with ID 292
+2025-05-31 15:40:24,285 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,288 - db_config - INFO - Vehicle Seashark inserted successfully with ID 293
+2025-05-31 15:40:24,298 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,301 - db_config - INFO - Vehicle Speeder inserted successfully with ID 294
+2025-05-31 15:40:24,311 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,313 - db_config - INFO - Vehicle Beach Bum Update already exists in the database with ID 181
+2025-05-31 15:40:24,322 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,325 - db_config - INFO - Vehicle Squalo inserted successfully with ID 295
+2025-05-31 15:40:24,335 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,338 - db_config - INFO - Vehicle Submersible inserted successfully with ID 296
+2025-05-31 15:40:24,348 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,350 - db_config - INFO - Vehicle Suntrap inserted successfully with ID 297
+2025-05-31 15:40:24,360 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,362 - db_config - INFO - Vehicle Toro inserted successfully with ID 298
+2025-05-31 15:40:24,372 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,374 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:24,384 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,386 - db_config - INFO - Vehicle Tropic inserted successfully with ID 299
+2025-05-31 15:40:24,395 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,398 - db_config - INFO - Vehicle Atomic Blimp inserted successfully with ID 300
+2025-05-31 15:40:24,407 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,411 - db_config - INFO - Vehicle Besra inserted successfully with ID 301
+2025-05-31 15:40:24,421 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,423 - db_config - INFO - Vehicle The San Andreas Flight School Update already exists in the database with ID 98
+2025-05-31 15:40:24,432 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,434 - db_config - INFO - Vehicle Cargo Plane inserted successfully with ID 302
+2025-05-31 15:40:24,443 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,449 - db_config - INFO - Vehicle Cuban 800 inserted successfully with ID 303
+2025-05-31 15:40:24,459 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,462 - db_config - ERROR - Database error when inserting vehicle Dodo: value too long for type character varying(255)
+
+2025-05-31 15:40:24,471 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,474 - db_config - ERROR - Database error when inserting vehicle Duster: value too long for type character varying(255)
+
+2025-05-31 15:40:24,484 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,487 - db_config - INFO - Vehicle Jet inserted successfully with ID 306
+2025-05-31 15:40:24,498 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,501 - db_config - ERROR - Database error when inserting vehicle Luxor: value too long for type character varying(255)
+
+2025-05-31 15:40:24,512 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,515 - db_config - INFO - Vehicle Luxor Deluxe inserted successfully with ID 308
+2025-05-31 15:40:24,526 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,527 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:24,538 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,545 - db_config - INFO - Vehicle Mallard inserted successfully with ID 309
+2025-05-31 15:40:24,554 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,559 - db_config - INFO - Vehicle Mammatus inserted successfully with ID 310
+2025-05-31 15:40:24,569 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,573 - db_config - INFO - Vehicle Miljet inserted successfully with ID 311
+2025-05-31 15:40:24,582 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,583 - db_config - INFO - Vehicle The San Andreas Flight School Update already exists in the database with ID 98
+2025-05-31 15:40:24,593 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,598 - db_config - INFO - Vehicle P-996 LAZER inserted successfully with ID 312
+2025-05-31 15:40:24,608 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,611 - db_config - ERROR - Database error when inserting vehicle Shamal: value too long for type character varying(255)
+
+2025-05-31 15:40:24,622 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,625 - db_config - ERROR - Database error when inserting vehicle Titan: value too long for type character varying(255)
+
+2025-05-31 15:40:24,638 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,642 - db_config - INFO - Vehicle Velum inserted successfully with ID 315
+2025-05-31 15:40:24,652 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,655 - db_config - INFO - Vehicle Vestra inserted successfully with ID 316
+2025-05-31 15:40:24,665 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,667 - db_config - INFO - Vehicle The Business Update already exists in the database with ID 39
+2025-05-31 15:40:24,677 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,681 - db_config - INFO - Vehicle Xero Blimp inserted successfully with ID 317
+2025-05-31 15:40:24,691 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,694 - db_config - INFO - Vehicle Buzzard inserted successfully with ID 318
+2025-05-31 15:40:24,704 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,709 - db_config - ERROR - Database error when inserting vehicle Buzzard Attack Chopper: value too long for type character varying(255)
+
+2025-05-31 15:40:24,719 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,723 - db_config - INFO - Vehicle Cargobob inserted successfully with ID 320
+2025-05-31 15:40:24,734 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,739 - db_config - INFO - Vehicle Frogger inserted successfully with ID 321
+2025-05-31 15:40:24,750 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,752 - db_config - INFO - Vehicle Frogger already exists in the database with ID 321
+2025-05-31 15:40:24,762 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,766 - db_config - ERROR - Database error when inserting vehicle Maverick: value too long for type character varying(255)
+
+2025-05-31 15:40:24,775 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,778 - db_config - INFO - Vehicle Skylift inserted successfully with ID 323
+2025-05-31 15:40:24,787 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,792 - db_config - INFO - Vehicle Swift inserted successfully with ID 324
+2025-05-31 15:40:24,801 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,802 - db_config - INFO - Vehicle The San Andreas Flight School Update already exists in the database with ID 98
+2025-05-31 15:40:24,811 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,815 - db_config - INFO - Vehicle Swift Deluxe inserted successfully with ID 325
+2025-05-31 15:40:24,824 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,826 - db_config - INFO - Vehicle Ill-Gotten Gains Part 1 already exists in the database with ID 70
+2025-05-31 15:40:24,835 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,838 - db_config - INFO - Vehicle Cable Car inserted successfully with ID 326
+2025-05-31 15:40:24,847 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,850 - db_config - INFO - Vehicle Freight Train inserted successfully with ID 327
+2025-05-31 15:40:24,859 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,861 - db_config - INFO - Vehicle Freight Train already exists in the database with ID 327
+2025-05-31 15:40:24,869 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,871 - db_config - INFO - Vehicle Freight Train already exists in the database with ID 327
+2025-05-31 15:40:24,880 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,882 - db_config - INFO - Vehicle Freight Train already exists in the database with ID 327
+2025-05-31 15:40:24,891 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,893 - db_config - INFO - Vehicle Freight Train already exists in the database with ID 327
+2025-05-31 15:40:24,902 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,903 - db_config - INFO - Vehicle Freight Train already exists in the database with ID 327
+2025-05-31 15:40:24,913 - db_config - INFO - Database connection established successfully
+2025-05-31 15:40:24,916 - db_config - INFO - Vehicle Metrotrain inserted successfully with ID 328
+2025-05-31 15:40:24,916 - db_config - INFO - Bulk insert completed: 264 vehicles added, 129 failed
+2025-05-31 15:40:24,916 - __main__ - INFO - Database operation completed: 264 vehicles added, 129 failed
+2025-05-31 15:40:24,916 - __main__ - INFO - GTA5 vehicles scraperService completed successfully

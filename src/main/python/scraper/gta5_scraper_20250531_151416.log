@@ -1,0 +1,802 @@
+2025-05-31 15:14:16,035 - __main__ - INFO - Starting GTA5 vehicles scraperService
+2025-05-31 15:14:16,035 - __main__ - INFO - Scraping from all sources
+2025-05-31 15:14:16,035 - scraperService - INFO - Scraping vehicles from https://www.gtabase.com/gta-5/vehicles
+2025-05-31 15:14:17,149 - scraperService - ERROR - Error fetching GTA Base: 404 Client Error: Not Found for url: https://www.gtabase.com/gta-5/vehicles
+2025-05-31 15:14:17,150 - scraperService - INFO - Scraping vehicles from https://gta.fandom.com/wiki/Vehicles_in_GTA_V
+2025-05-31 15:14:17,457 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/9F
+2025-05-31 15:14:17,679 - scraperService - INFO - Extracted data for vehicle: 9F
+2025-05-31 15:14:18,684 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/9F_Cabrio
+2025-05-31 15:14:19,313 - scraperService - INFO - Extracted data for vehicle: 9F Cabrio
+2025-05-31 15:14:20,318 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Alpha
+2025-05-31 15:14:20,660 - scraperService - INFO - Extracted data for vehicle: Alpha
+2025-05-31 15:14:21,665 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Business_Update
+2025-05-31 15:14:21,837 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:14:22,842 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Banshee_(HD_Universe)
+2025-05-31 15:14:23,553 - scraperService - INFO - Extracted data for vehicle: Banshee
+2025-05-31 15:14:24,558 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blista_Compact
+2025-05-31 15:14:25,327 - scraperService - INFO - Extracted data for vehicle: Blista Compact
+2025-05-31 15:14:26,332 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buffalo_(HD_Universe)
+2025-05-31 15:14:26,976 - scraperService - INFO - Extracted data for vehicle: Buffalo
+2025-05-31 15:14:27,981 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buffalo_S
+2025-05-31 15:14:28,274 - scraperService - INFO - Extracted data for vehicle: Buffalo S
+2025-05-31 15:14:29,279 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Carbonizzare
+2025-05-31 15:14:29,554 - scraperService - INFO - Extracted data for vehicle: Carbonizzare
+2025-05-31 15:14:30,560 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Comet
+2025-05-31 15:14:31,051 - scraperService - INFO - Extracted data for vehicle: Comet
+2025-05-31 15:14:32,056 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Coquette
+2025-05-31 15:14:32,400 - scraperService - INFO - Extracted data for vehicle: Coquette
+2025-05-31 15:14:33,406 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Elegy_RH8
+2025-05-31 15:14:33,658 - scraperService - INFO - Extracted data for vehicle: Elegy RH8
+2025-05-31 15:14:34,663 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Feltzer
+2025-05-31 15:14:35,555 - scraperService - INFO - Extracted data for vehicle: Feltzer
+2025-05-31 15:14:36,560 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Furore_GT
+2025-05-31 15:14:37,297 - scraperService - INFO - Extracted data for vehicle: Furore GT
+2025-05-31 15:14:38,303 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Last_Team_Standing_Update
+2025-05-31 15:14:38,787 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:14:39,792 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fusilade
+2025-05-31 15:14:40,027 - scraperService - INFO - Extracted data for vehicle: Fusilade
+2025-05-31 15:14:41,032 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Futo
+2025-05-31 15:14:41,358 - scraperService - INFO - Extracted data for vehicle: Futo
+2025-05-31 15:14:42,363 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Go_Go_Monkey_Blista
+2025-05-31 15:14:42,941 - scraperService - INFO - Extracted data for vehicle: Go Go Monkey Blista
+2025-05-31 15:14:43,946 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jester
+2025-05-31 15:14:44,260 - scraperService - INFO - Extracted data for vehicle: Jester
+2025-05-31 15:14:45,265 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Business_Update
+2025-05-31 15:14:45,822 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:14:46,827 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jester_(Racecar)
+2025-05-31 15:14:47,082 - scraperService - INFO - Extracted data for vehicle: Jester (Racecar)
+2025-05-31 15:14:48,088 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Festive_Surprise
+2025-05-31 15:14:48,227 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:14:49,232 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Massacro
+2025-05-31 15:14:49,947 - scraperService - INFO - Extracted data for vehicle: Massacro
+2025-05-31 15:14:50,952 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_High_Life_Update
+2025-05-31 15:14:51,152 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:14:52,157 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Massacro_(Racecar)
+2025-05-31 15:14:52,389 - scraperService - INFO - Extracted data for vehicle: Massacro (Racecar)
+2025-05-31 15:14:53,395 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Festive_Surprise
+2025-05-31 15:14:53,590 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:14:54,595 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Penumbra
+2025-05-31 15:14:54,988 - scraperService - INFO - Extracted data for vehicle: Penumbra
+2025-05-31 15:14:55,993 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rapid_GT
+2025-05-31 15:14:56,257 - scraperService - INFO - Extracted data for vehicle: Rapid GT
+2025-05-31 15:14:57,262 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rapid_GT_(cabrio)
+2025-05-31 15:14:57,999 - scraperService - INFO - Extracted data for vehicle: Rapid GT
+2025-05-31 15:14:59,004 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Schwartzer
+2025-05-31 15:14:59,317 - scraperService - INFO - Extracted data for vehicle: Schwartzer
+2025-05-31 15:15:00,322 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sprunk_Buffalo
+2025-05-31 15:15:01,687 - scraperService - INFO - Extracted data for vehicle: Sprunk Buffalo
+2025-05-31 15:15:02,692 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sultan
+2025-05-31 15:15:02,978 - scraperService - INFO - Extracted data for vehicle: Sultan
+2025-05-31 15:15:03,983 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Surano
+2025-05-31 15:15:05,682 - scraperService - INFO - Extracted data for vehicle: Surano
+2025-05-31 15:15:06,687 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blade_(car)
+2025-05-31 15:15:08,503 - scraperService - INFO - Extracted data for vehicle: Blade
+2025-05-31 15:15:09,508 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:15:10,092 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:15:11,098 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buccaneer_(HD_Universe)
+2025-05-31 15:15:12,010 - scraperService - INFO - Extracted data for vehicle: Buccaneer
+2025-05-31 15:15:13,015 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Burger_Shot_Stallion
+2025-05-31 15:15:14,387 - scraperService - INFO - Extracted data for vehicle: Burger Shot Stallion
+2025-05-31 15:15:15,392 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Chino
+2025-05-31 15:15:15,679 - scraperService - INFO - Extracted data for vehicle: Chino
+2025-05-31 15:15:16,684 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:15:17,151 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:15:18,156 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Coquette_BlackFin
+2025-05-31 15:15:18,830 - scraperService - INFO - Extracted data for vehicle: Coquette BlackFin
+2025-05-31 15:15:19,836 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:15:19,977 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:15:20,978 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dominator
+2025-05-31 15:15:21,582 - scraperService - INFO - Extracted data for vehicle: Dominator
+2025-05-31 15:15:22,587 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Duke_O%27Death
+2025-05-31 15:15:23,311 - scraperService - INFO - Extracted data for vehicle: Duke O'Death
+2025-05-31 15:15:24,316 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dukes_(car)
+2025-05-31 15:15:24,610 - scraperService - INFO - Extracted data for vehicle: Dukes
+2025-05-31 15:15:25,615 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Gauntlet
+2025-05-31 15:15:25,855 - scraperService - INFO - Extracted data for vehicle: Gauntlet
+2025-05-31 15:15:26,860 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hotknife
+2025-05-31 15:15:27,254 - scraperService - INFO - Extracted data for vehicle: Hotknife
+2025-05-31 15:15:28,260 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Phoenix
+2025-05-31 15:15:29,464 - scraperService - INFO - Extracted data for vehicle: Phoenix
+2025-05-31 15:15:30,470 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Picador
+2025-05-31 15:15:34,707 - scraperService - INFO - Extracted data for vehicle: Picador
+2025-05-31 15:15:35,712 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pi%C3%9Fwasser_Dominator
+2025-05-31 15:15:36,986 - scraperService - INFO - Extracted data for vehicle: Pißwasser Dominator
+2025-05-31 15:15:37,992 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rat-Loader
+2025-05-31 15:15:38,492 - scraperService - INFO - Extracted data for vehicle: Rat-Loader
+2025-05-31 15:15:39,498 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rat-Truck
+2025-05-31 15:15:40,177 - scraperService - INFO - Extracted data for vehicle: Rat-Truck
+2025-05-31 15:15:41,181 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Festive_Surprise
+2025-05-31 15:15:41,494 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:15:42,496 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Redwood_Gauntlet
+2025-05-31 15:15:42,711 - scraperService - INFO - Extracted data for vehicle: Redwood Gauntlet
+2025-05-31 15:15:43,716 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ruiner
+2025-05-31 15:15:44,053 - scraperService - INFO - Extracted data for vehicle: Ruiner
+2025-05-31 15:15:45,058 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sabre_Turbo
+2025-05-31 15:15:46,128 - scraperService - INFO - Extracted data for vehicle: Sabre Turbo
+2025-05-31 15:15:47,133 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Slamvan
+2025-05-31 15:15:47,752 - scraperService - INFO - Extracted data for vehicle: Slamvan
+2025-05-31 15:15:48,755 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Festive_Surprise
+2025-05-31 15:15:48,966 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:15:49,974 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stallion
+2025-05-31 15:15:50,661 - scraperService - INFO - Extracted data for vehicle: Stallion
+2025-05-31 15:15:51,662 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vigero
+2025-05-31 15:15:51,961 - scraperService - INFO - Extracted data for vehicle: Vigero
+2025-05-31 15:15:52,966 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Virgo_(HD_Universe)
+2025-05-31 15:15:53,610 - scraperService - INFO - Extracted data for vehicle: Virgo
+2025-05-31 15:15:54,615 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:15:54,795 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:15:55,801 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Voodoo_(HD_Universe)
+2025-05-31 15:15:56,717 - scraperService - INFO - Extracted data for vehicle: Voodoo
+2025-05-31 15:15:57,723 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Adder
+2025-05-31 15:15:57,982 - scraperService - INFO - Extracted data for vehicle: Adder
+2025-05-31 15:15:58,987 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bullet
+2025-05-31 15:15:59,684 - scraperService - INFO - Extracted data for vehicle: Bullet
+2025-05-31 15:16:00,689 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cheetah_(HD_Universe)
+2025-05-31 15:16:01,324 - scraperService - INFO - Extracted data for vehicle: Cheetah
+2025-05-31 15:16:02,330 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Entity_XF
+2025-05-31 15:16:03,068 - scraperService - INFO - Extracted data for vehicle: Entity XF
+2025-05-31 15:16:04,073 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Infernus
+2025-05-31 15:16:04,968 - scraperService - INFO - Extracted data for vehicle: Infernus
+2025-05-31 15:16:05,973 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Osiris
+2025-05-31 15:16:06,657 - scraperService - INFO - Extracted data for vehicle: Osiris
+2025-05-31 15:16:07,663 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:16:07,816 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:16:08,820 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/T20
+2025-05-31 15:16:10,478 - scraperService - INFO - Extracted data for vehicle: T20
+2025-05-31 15:16:11,484 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:16:11,786 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:16:12,790 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Turismo_R
+2025-05-31 15:16:14,530 - scraperService - INFO - Extracted data for vehicle: Turismo R
+2025-05-31 15:16:15,535 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Business_Update
+2025-05-31 15:16:16,183 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:16:17,188 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vacca
+2025-05-31 15:16:18,111 - scraperService - INFO - Extracted data for vehicle: Vacca
+2025-05-31 15:16:19,112 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Voltic
+2025-05-31 15:16:20,877 - scraperService - INFO - Extracted data for vehicle: Voltic
+2025-05-31 15:16:21,882 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Zentorno
+2025-05-31 15:16:22,387 - scraperService - INFO - Extracted data for vehicle: Zentorno
+2025-05-31 15:16:23,393 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_High_Life_Update
+2025-05-31 15:16:24,118 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:16:25,123 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Coquette_Classic
+2025-05-31 15:16:25,486 - scraperService - INFO - Extracted data for vehicle: Coquette Classic
+2025-05-31 15:16:26,492 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_San_Andreas_Flight_School_Update
+2025-05-31 15:16:26,787 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:16:27,792 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/JB_700
+2025-05-31 15:16:28,303 - scraperService - INFO - Extracted data for vehicle: JB 700
+2025-05-31 15:16:29,308 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Manana
+2025-05-31 15:16:30,108 - scraperService - INFO - Extracted data for vehicle: Manana
+2025-05-31 15:16:31,114 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Monroe
+2025-05-31 15:16:31,667 - scraperService - INFO - Extracted data for vehicle: Monroe
+2025-05-31 15:16:32,673 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Peyote
+2025-05-31 15:16:33,344 - scraperService - INFO - Extracted data for vehicle: Peyote
+2025-05-31 15:16:34,350 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pigalle
+2025-05-31 15:16:34,911 - scraperService - INFO - Extracted data for vehicle: Pigalle
+2025-05-31 15:16:35,917 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:16:36,469 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:16:37,474 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Roosevelt
+2025-05-31 15:16:38,228 - scraperService - INFO - Extracted data for vehicle: Roosevelt
+2025-05-31 15:16:39,233 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Valentine%27s_Day_Massacre_Special
+2025-05-31 15:16:39,696 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:16:40,699 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stinger
+2025-05-31 15:16:41,032 - scraperService - INFO - Extracted data for vehicle: Stinger
+2025-05-31 15:16:42,037 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stirling_GT
+2025-05-31 15:16:42,339 - scraperService - INFO - Extracted data for vehicle: Stirling GT
+2025-05-31 15:16:43,345 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:16:43,488 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:16:44,493 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tornado
+2025-05-31 15:16:44,809 - scraperService - INFO - Extracted data for vehicle: Tornado
+2025-05-31 15:16:45,814 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tornado_(cabrio)
+2025-05-31 15:16:46,181 - scraperService - INFO - Extracted data for vehicle: Tornado
+2025-05-31 15:16:47,186 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tornado_(beater)
+2025-05-31 15:16:48,017 - scraperService - INFO - Extracted data for vehicle: Tornado
+2025-05-31 15:16:49,022 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tornado_(Mariachi)
+2025-05-31 15:16:49,723 - scraperService - INFO - Extracted data for vehicle: Tornado
+2025-05-31 15:16:50,728 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Z-Type
+2025-05-31 15:16:51,157 - scraperService - INFO - Extracted data for vehicle: Z-Type
+2025-05-31 15:16:52,163 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Asea
+2025-05-31 15:16:52,803 - scraperService - INFO - Extracted data for vehicle: Asea
+2025-05-31 15:16:53,809 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Asea_(snow)
+2025-05-31 15:16:54,375 - scraperService - INFO - Extracted data for vehicle: Asea (snow)
+2025-05-31 15:16:55,381 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Asterope
+2025-05-31 15:16:56,185 - scraperService - INFO - Extracted data for vehicle: Asterope
+2025-05-31 15:16:57,190 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Emperor_(car)
+2025-05-31 15:16:57,549 - scraperService - INFO - Extracted data for vehicle: Emperor
+2025-05-31 15:16:58,554 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Emperor_(beater)
+2025-05-31 15:16:59,122 - scraperService - INFO - Extracted data for vehicle: Emperor
+2025-05-31 15:17:00,127 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Emperor_(snow)
+2025-05-31 15:17:00,705 - scraperService - INFO - Extracted data for vehicle: Emperor
+2025-05-31 15:17:01,710 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fugitive
+2025-05-31 15:17:01,964 - scraperService - INFO - Extracted data for vehicle: Fugitive
+2025-05-31 15:17:02,969 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Glendale_(HD_Universe)
+2025-05-31 15:17:04,484 - scraperService - INFO - Extracted data for vehicle: Glendale
+2025-05-31 15:17:05,489 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:17:05,652 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:17:06,657 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ingot
+2025-05-31 15:17:07,619 - scraperService - INFO - Extracted data for vehicle: Ingot
+2025-05-31 15:17:08,624 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Intruder_(HD_Universe)
+2025-05-31 15:17:09,266 - scraperService - INFO - Extracted data for vehicle: Intruder
+2025-05-31 15:17:10,271 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Premier
+2025-05-31 15:17:10,575 - scraperService - INFO - Extracted data for vehicle: Premier
+2025-05-31 15:17:11,581 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Primo
+2025-05-31 15:17:11,939 - scraperService - INFO - Extracted data for vehicle: Primo
+2025-05-31 15:17:12,944 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Regina
+2025-05-31 15:17:13,857 - scraperService - INFO - Extracted data for vehicle: Regina
+2025-05-31 15:17:14,862 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Romero_Hearse
+2025-05-31 15:17:15,204 - scraperService - INFO - Extracted data for vehicle: Romero Hearse
+2025-05-31 15:17:16,209 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Schafter_(second_generation)
+2025-05-31 15:17:16,859 - scraperService - INFO - Extracted data for vehicle: Schafter
+2025-05-31 15:17:17,864 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stanier
+2025-05-31 15:17:18,598 - scraperService - INFO - Extracted data for vehicle: Stanier
+2025-05-31 15:17:19,603 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stratum
+2025-05-31 15:17:20,641 - scraperService - INFO - Extracted data for vehicle: Stratum
+2025-05-31 15:17:21,645 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stretch
+2025-05-31 15:17:22,296 - scraperService - INFO - Extracted data for vehicle: Stretch
+2025-05-31 15:17:23,299 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Super_Diamond
+2025-05-31 15:17:23,536 - scraperService - INFO - Extracted data for vehicle: Super Diamond
+2025-05-31 15:17:24,537 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Surge
+2025-05-31 15:17:26,206 - scraperService - INFO - Extracted data for vehicle: Surge
+2025-05-31 15:17:27,207 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tailgater
+2025-05-31 15:17:27,870 - scraperService - INFO - Extracted data for vehicle: Tailgater
+2025-05-31 15:17:28,872 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Warrener
+2025-05-31 15:17:29,472 - scraperService - INFO - Extracted data for vehicle: Warrener
+2025-05-31 15:17:30,474 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:17:30,629 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:17:31,633 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Washington
+2025-05-31 15:17:32,301 - scraperService - INFO - Extracted data for vehicle: Washington
+2025-05-31 15:17:33,302 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Baller
+2025-05-31 15:17:33,582 - scraperService - INFO - Extracted data for vehicle: Baller
+2025-05-31 15:17:34,587 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Baller_(second_generation)
+2025-05-31 15:17:35,391 - scraperService - INFO - Extracted data for vehicle: Baller
+2025-05-31 15:17:36,393 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/BeeJay_XL
+2025-05-31 15:17:36,984 - scraperService - INFO - Extracted data for vehicle: BeeJay XL
+2025-05-31 15:17:37,989 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cavalcade
+2025-05-31 15:17:38,710 - scraperService - INFO - Extracted data for vehicle: Cavalcade
+2025-05-31 15:17:39,715 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cavalcade_(second_generation)
+2025-05-31 15:17:40,384 - scraperService - INFO - Extracted data for vehicle: Cavalcade
+2025-05-31 15:17:41,390 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dubsta
+2025-05-31 15:17:42,084 - scraperService - INFO - Extracted data for vehicle: Dubsta
+2025-05-31 15:17:43,089 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dubsta_(custom)
+2025-05-31 15:17:43,368 - scraperService - INFO - Extracted data for vehicle: Dubsta
+2025-05-31 15:17:44,374 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/FQ_2
+2025-05-31 15:17:45,018 - scraperService - INFO - Extracted data for vehicle: FQ 2
+2025-05-31 15:17:46,023 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Granger
+2025-05-31 15:17:46,715 - scraperService - INFO - Extracted data for vehicle: Granger
+2025-05-31 15:17:47,719 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Gresley
+2025-05-31 15:17:47,943 - scraperService - INFO - Extracted data for vehicle: Gresley
+2025-05-31 15:17:48,949 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Habanero
+2025-05-31 15:17:49,574 - scraperService - INFO - Extracted data for vehicle: Habanero
+2025-05-31 15:17:50,579 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Huntley_S
+2025-05-31 15:17:51,384 - scraperService - INFO - Extracted data for vehicle: Huntley S
+2025-05-31 15:17:52,389 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_High_Life_Update
+2025-05-31 15:17:52,588 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:17:53,592 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Landstalker
+2025-05-31 15:17:54,463 - scraperService - INFO - Extracted data for vehicle: Landstalker
+2025-05-31 15:17:55,469 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mesa_Grande
+2025-05-31 15:17:56,144 - scraperService - INFO - Extracted data for vehicle: Mesa
+2025-05-31 15:17:57,149 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mesa_(snow)
+2025-05-31 15:17:57,977 - scraperService - INFO - Extracted data for vehicle: Mesa
+2025-05-31 15:17:58,983 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Patriot
+2025-05-31 15:17:59,376 - scraperService - INFO - Extracted data for vehicle: Patriot
+2025-05-31 15:18:00,380 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Radius
+2025-05-31 15:18:00,970 - scraperService - INFO - Extracted data for vehicle: Radius
+2025-05-31 15:18:01,975 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rocoto
+2025-05-31 15:18:02,213 - scraperService - INFO - Extracted data for vehicle: Rocoto
+2025-05-31 15:18:03,218 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Seminole
+2025-05-31 15:18:03,996 - scraperService - INFO - Extracted data for vehicle: Seminole
+2025-05-31 15:18:05,001 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Serrano
+2025-05-31 15:18:05,561 - scraperService - INFO - Extracted data for vehicle: Serrano
+2025-05-31 15:18:06,566 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blista
+2025-05-31 15:18:07,308 - scraperService - INFO - Extracted data for vehicle: Blista
+2025-05-31 15:18:08,313 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dilettante
+2025-05-31 15:18:09,009 - scraperService - INFO - Extracted data for vehicle: Dilettante
+2025-05-31 15:18:10,014 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dilettante_(Merryweather)
+2025-05-31 15:18:10,305 - scraperService - INFO - Extracted data for vehicle: Dilettante
+2025-05-31 15:18:11,311 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Issi
+2025-05-31 15:18:11,965 - scraperService - INFO - Extracted data for vehicle: Issi
+2025-05-31 15:18:12,970 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Panto
+2025-05-31 15:18:13,809 - scraperService - INFO - Extracted data for vehicle: Panto
+2025-05-31 15:18:14,814 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:18:14,978 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:18:15,984 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Prairie
+2025-05-31 15:18:16,272 - scraperService - INFO - Extracted data for vehicle: Prairie
+2025-05-31 15:18:17,278 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rhapsody
+2025-05-31 15:18:17,541 - scraperService - INFO - Extracted data for vehicle: Rhapsody
+2025-05-31 15:18:18,543 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:18:18,732 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:18:19,738 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cognoscenti_Cabrio
+2025-05-31 15:18:19,980 - scraperService - INFO - Extracted data for vehicle: Cognoscenti Cabrio
+2025-05-31 15:18:20,985 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Exemplar
+2025-05-31 15:18:21,379 - scraperService - INFO - Extracted data for vehicle: Exemplar
+2025-05-31 15:18:22,385 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/F620
+2025-05-31 15:18:22,955 - scraperService - INFO - Extracted data for vehicle: F620
+2025-05-31 15:18:23,960 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Felon
+2025-05-31 15:18:24,271 - scraperService - INFO - Extracted data for vehicle: Felon
+2025-05-31 15:18:25,276 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Felon_GT
+2025-05-31 15:18:25,990 - scraperService - INFO - Extracted data for vehicle: Felon GT
+2025-05-31 15:18:26,996 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jackal
+2025-05-31 15:18:27,664 - scraperService - INFO - Extracted data for vehicle: Jackal
+2025-05-31 15:18:28,670 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Oracle
+2025-05-31 15:18:30,092 - scraperService - INFO - Extracted data for vehicle: Oracle
+2025-05-31 15:18:31,097 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Oracle_XS
+2025-05-31 15:18:32,992 - scraperService - INFO - Extracted data for vehicle: Oracle XS
+2025-05-31 15:18:33,996 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sentinel
+2025-05-31 15:18:34,502 - scraperService - INFO - Extracted data for vehicle: Sentinel
+2025-05-31 15:18:35,508 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sentinel_XS
+2025-05-31 15:18:36,311 - scraperService - INFO - Extracted data for vehicle: Sentinel XS
+2025-05-31 15:18:37,317 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Windsor
+2025-05-31 15:18:37,739 - scraperService - INFO - Extracted data for vehicle: Windsor
+2025-05-31 15:18:38,744 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:18:38,899 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:18:39,904 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Zion
+2025-05-31 15:18:40,168 - scraperService - INFO - Extracted data for vehicle: Zion
+2025-05-31 15:18:41,173 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Zion_Cabrio
+2025-05-31 15:18:42,481 - scraperService - INFO - Extracted data for vehicle: Zion Cabrio
+2025-05-31 15:18:43,487 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Akuma
+2025-05-31 15:18:43,795 - scraperService - INFO - Extracted data for vehicle: Akuma
+2025-05-31 15:18:44,800 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bagger
+2025-05-31 15:18:45,182 - scraperService - INFO - Extracted data for vehicle: Bagger
+2025-05-31 15:18:46,187 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bati_801
+2025-05-31 15:18:47,142 - scraperService - INFO - Extracted data for vehicle: Bati 801
+2025-05-31 15:18:48,147 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bati_801RR
+2025-05-31 15:18:48,434 - scraperService - INFO - Extracted data for vehicle: Bati 801RR
+2025-05-31 15:18:49,438 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Carbon_RS
+2025-05-31 15:18:50,057 - scraperService - INFO - Extracted data for vehicle: Carbon RS
+2025-05-31 15:18:51,062 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Daemon
+2025-05-31 15:18:52,762 - scraperService - INFO - Extracted data for vehicle: Daemon
+2025-05-31 15:18:53,768 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Double_T
+2025-05-31 15:18:55,718 - scraperService - INFO - Extracted data for vehicle: Double T
+2025-05-31 15:18:56,724 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Faggio
+2025-05-31 15:18:57,849 - scraperService - INFO - Extracted data for vehicle: Faggio
+2025-05-31 15:18:58,855 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hakuchou
+2025-05-31 15:18:59,140 - scraperService - INFO - Extracted data for vehicle: Hakuchou
+2025-05-31 15:19:00,145 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Last_Team_Standing_Update
+2025-05-31 15:19:00,708 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:19:01,713 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hexer
+2025-05-31 15:19:01,978 - scraperService - INFO - Extracted data for vehicle: Hexer
+2025-05-31 15:19:02,983 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Innovation
+2025-05-31 15:19:03,392 - scraperService - INFO - Extracted data for vehicle: Innovation
+2025-05-31 15:19:04,397 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Last_Team_Standing_Update
+2025-05-31 15:19:04,562 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:19:05,567 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Nemesis
+2025-05-31 15:19:06,362 - scraperService - INFO - Extracted data for vehicle: Nemesis
+2025-05-31 15:19:07,368 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/PCJ_600
+2025-05-31 15:19:07,819 - scraperService - INFO - Extracted data for vehicle: PCJ 600
+2025-05-31 15:19:08,825 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ruffian
+2025-05-31 15:19:09,098 - scraperService - INFO - Extracted data for vehicle: Ruffian
+2025-05-31 15:19:10,103 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sanchez
+2025-05-31 15:19:10,399 - scraperService - INFO - Extracted data for vehicle: Sanchez
+2025-05-31 15:19:11,405 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sovereign
+2025-05-31 15:19:11,845 - scraperService - INFO - Extracted data for vehicle: Sovereign
+2025-05-31 15:19:12,847 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Independence_Day_Special
+2025-05-31 15:19:13,011 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:19:14,016 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Thrust
+2025-05-31 15:19:14,634 - scraperService - INFO - Extracted data for vehicle: Thrust
+2025-05-31 15:19:15,639 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_High_Life_Update
+2025-05-31 15:19:16,284 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:19:17,290 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vader
+2025-05-31 15:19:19,041 - scraperService - INFO - Extracted data for vehicle: Vader
+2025-05-31 15:19:20,046 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vindicator
+2025-05-31 15:19:20,464 - scraperService - INFO - Extracted data for vehicle: Vindicator
+2025-05-31 15:19:21,470 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:19:21,625 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:19:22,630 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bifta
+2025-05-31 15:19:23,226 - scraperService - INFO - Extracted data for vehicle: Bifta
+2025-05-31 15:19:24,232 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Beach_Bum_Update
+2025-05-31 15:19:24,666 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:19:25,672 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blazer
+2025-05-31 15:19:26,431 - scraperService - INFO - Extracted data for vehicle: Blazer
+2025-05-31 15:19:27,436 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Blazer_Lifeguard
+2025-05-31 15:19:28,036 - scraperService - INFO - Extracted data for vehicle: Blazer Lifeguard
+2025-05-31 15:19:29,042 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bodhi
+2025-05-31 15:19:29,768 - scraperService - INFO - Extracted data for vehicle: Bodhi
+2025-05-31 15:19:30,773 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Brawler
+2025-05-31 15:19:31,424 - scraperService - INFO - Extracted data for vehicle: Brawler
+2025-05-31 15:19:32,428 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:19:32,586 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:19:33,592 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dubsta_6x6
+2025-05-31 15:19:34,048 - scraperService - INFO - Extracted data for vehicle: Dubsta 6x6
+2025-05-31 15:19:35,053 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_%22I%27m_Not_a_Hipster%22_Update
+2025-05-31 15:19:35,492 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:19:36,497 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dune_Buggy
+2025-05-31 15:19:37,402 - scraperService - INFO - Extracted data for vehicle: Dune Buggy
+2025-05-31 15:19:38,407 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Duneloader
+2025-05-31 15:19:38,781 - scraperService - INFO - Extracted data for vehicle: Duneloader
+2025-05-31 15:19:39,786 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hot_Rod_Blazer
+2025-05-31 15:19:40,464 - scraperService - INFO - Extracted data for vehicle: Hot Rod Blazer
+2025-05-31 15:19:41,469 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Injection
+2025-05-31 15:19:42,177 - scraperService - INFO - Extracted data for vehicle: Injection
+2025-05-31 15:19:43,182 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Kalahari
+2025-05-31 15:19:43,863 - scraperService - INFO - Extracted data for vehicle: Kalahari
+2025-05-31 15:19:44,868 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Beach_Bum_Update
+2025-05-31 15:19:45,148 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:19:46,153 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Marshall
+2025-05-31 15:19:47,958 - scraperService - INFO - Extracted data for vehicle: Marshall
+2025-05-31 15:19:48,963 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mesa_(off-road)
+2025-05-31 15:19:49,397 - scraperService - INFO - Extracted data for vehicle: Mesa
+2025-05-31 15:19:50,402 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rancher_XL
+2025-05-31 15:19:51,081 - scraperService - INFO - Extracted data for vehicle: Rancher XL
+2025-05-31 15:19:52,086 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rancher_XL_(snow)
+2025-05-31 15:19:52,702 - scraperService - INFO - Extracted data for vehicle: Rancher XL
+2025-05-31 15:19:53,708 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rebel
+2025-05-31 15:19:54,498 - scraperService - INFO - Extracted data for vehicle: Rebel
+2025-05-31 15:19:55,504 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rusty_Rebel
+2025-05-31 15:19:55,916 - scraperService - INFO - Extracted data for vehicle: Rusty Rebel
+2025-05-31 15:19:56,921 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sandking_SWB
+2025-05-31 15:19:57,285 - scraperService - INFO - Extracted data for vehicle: Sandking SWB
+2025-05-31 15:19:58,290 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sandking_XL
+2025-05-31 15:19:59,014 - scraperService - INFO - Extracted data for vehicle: Sandking XL
+2025-05-31 15:20:00,014 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Space_Docker
+2025-05-31 15:20:00,700 - scraperService - INFO - Extracted data for vehicle: Space Docker
+2025-05-31 15:20:01,701 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Liberator
+2025-05-31 15:20:02,535 - scraperService - INFO - Extracted data for vehicle: Liberator
+2025-05-31 15:20:03,541 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Independence_Day_Special
+2025-05-31 15:20:03,709 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:20:04,714 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/BMX_(HD_Universe)
+2025-05-31 15:20:04,973 - scraperService - INFO - Extracted data for vehicle: BMX
+2025-05-31 15:20:05,978 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cruiser_(bike)
+2025-05-31 15:20:06,276 - scraperService - INFO - Extracted data for vehicle: Cruiser
+2025-05-31 15:20:07,281 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Endurex_Race_Bike
+2025-05-31 15:20:07,870 - scraperService - INFO - Extracted data for vehicle: Endurex Race Bike
+2025-05-31 15:20:08,875 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fixter
+2025-05-31 15:20:09,594 - scraperService - INFO - Extracted data for vehicle: Fixter
+2025-05-31 15:20:10,600 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Scorcher
+2025-05-31 15:20:11,360 - scraperService - INFO - Extracted data for vehicle: Scorcher
+2025-05-31 15:20:12,366 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tri-Cycles_Race_Bike
+2025-05-31 15:20:13,131 - scraperService - INFO - Extracted data for vehicle: Tri-Cycles Race Bike
+2025-05-31 15:20:14,136 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Whippet_Race_Bike
+2025-05-31 15:20:14,401 - scraperService - INFO - Extracted data for vehicle: Whippet Race Bike
+2025-05-31 15:20:15,406 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bison
+2025-05-31 15:20:16,127 - scraperService - INFO - Extracted data for vehicle: Bison
+2025-05-31 15:20:17,132 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bison_(McGill-Olsen)
+2025-05-31 15:20:17,509 - scraperService - INFO - Extracted data for vehicle: Bison
+2025-05-31 15:20:18,514 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bison_(The_Mighty_Bush)
+2025-05-31 15:20:19,178 - scraperService - INFO - Extracted data for vehicle: Bison
+2025-05-31 15:20:20,183 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bobcat_XL
+2025-05-31 15:20:20,790 - scraperService - INFO - Extracted data for vehicle: Bobcat XL
+2025-05-31 15:20:21,796 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Boxville_(HD_Universe)
+2025-05-31 15:20:22,117 - scraperService - INFO - Extracted data for vehicle: Boxville
+2025-05-31 15:20:23,122 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Boxville_(utility)
+2025-05-31 15:20:24,066 - scraperService - INFO - Extracted data for vehicle: Boxville
+2025-05-31 15:20:25,072 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Boxville_(Humane_Labs)
+2025-05-31 15:20:26,454 - scraperService - INFO - Extracted data for vehicle: Boxville
+2025-05-31 15:20:27,459 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Burrito
+2025-05-31 15:20:28,081 - scraperService - INFO - Extracted data for vehicle: Burrito
+2025-05-31 15:20:29,086 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bugstars_Burrito
+2025-05-31 15:20:30,287 - scraperService - INFO - Extracted data for vehicle: Bugstars Burrito
+2025-05-31 15:20:31,293 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Burrito_(second_generation)
+2025-05-31 15:20:31,739 - scraperService - INFO - Extracted data for vehicle: Burrito
+2025-05-31 15:20:32,745 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Burrito_(snow)
+2025-05-31 15:20:33,147 - scraperService - INFO - Extracted data for vehicle: Burrito
+2025-05-31 15:20:34,152 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Camper_(HD_Universe)
+2025-05-31 15:20:34,844 - scraperService - INFO - Extracted data for vehicle: Camper
+2025-05-31 15:20:35,849 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Clown_Van
+2025-05-31 15:20:36,437 - scraperService - INFO - Extracted data for vehicle: Clown Van
+2025-05-31 15:20:37,442 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Gang_Burrito
+2025-05-31 15:20:37,785 - scraperService - INFO - Extracted data for vehicle: Gang Burrito
+2025-05-31 15:20:38,790 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Journey
+2025-05-31 15:20:39,054 - scraperService - INFO - Extracted data for vehicle: Journey
+2025-05-31 15:20:40,059 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Minivan
+2025-05-31 15:20:40,821 - scraperService - INFO - Extracted data for vehicle: Minivan
+2025-05-31 15:20:41,822 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Paradise
+2025-05-31 15:20:42,211 - scraperService - INFO - Extracted data for vehicle: Paradise
+2025-05-31 15:20:43,217 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Beach_Bum_Update
+2025-05-31 15:20:43,479 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:20:44,484 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pony
+2025-05-31 15:20:44,886 - scraperService - INFO - Extracted data for vehicle: Pony
+2025-05-31 15:20:45,891 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pony_(Smoke_On_The_Water)
+2025-05-31 15:20:47,012 - scraperService - INFO - Extracted data for vehicle: Pony
+2025-05-31 15:20:48,013 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rumpo
+2025-05-31 15:20:48,697 - scraperService - INFO - Extracted data for vehicle: Rumpo
+2025-05-31 15:20:49,702 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rumpo_(Deludamol)
+2025-05-31 15:20:51,013 - scraperService - INFO - Extracted data for vehicle: Rumpo
+2025-05-31 15:20:52,019 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Speedo
+2025-05-31 15:20:52,297 - scraperService - INFO - Extracted data for vehicle: Speedo
+2025-05-31 15:20:53,298 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Surfer
+2025-05-31 15:20:54,002 - scraperService - INFO - Extracted data for vehicle: Surfer
+2025-05-31 15:20:55,007 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Taco_Van
+2025-05-31 15:20:55,379 - scraperService - INFO - Extracted data for vehicle: Taco Van
+2025-05-31 15:20:56,384 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Youga
+2025-05-31 15:20:56,675 - scraperService - INFO - Extracted data for vehicle: Youga
+2025-05-31 15:20:57,680 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Airtug
+2025-05-31 15:20:58,027 - scraperService - INFO - Extracted data for vehicle: Airtug
+2025-05-31 15:20:59,032 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Caddy
+2025-05-31 15:20:59,365 - scraperService - INFO - Extracted data for vehicle: Caddy
+2025-05-31 15:21:00,370 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Caddy_(civilian)
+2025-05-31 15:21:01,274 - scraperService - INFO - Extracted data for vehicle: Caddy
+2025-05-31 15:21:02,279 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Docktug
+2025-05-31 15:21:02,517 - scraperService - INFO - Extracted data for vehicle: Docktug
+2025-05-31 15:21:03,519 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fieldmaster
+2025-05-31 15:21:04,088 - scraperService - INFO - Extracted data for vehicle: Fieldmaster
+2025-05-31 15:21:05,093 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fieldmaster_(snow)
+2025-05-31 15:21:05,661 - scraperService - INFO - Extracted data for vehicle: Fieldmaster
+2025-05-31 15:21:06,666 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Forklift_(HD_Universe)
+2025-05-31 15:21:07,338 - scraperService - INFO - Extracted data for vehicle: Forklift
+2025-05-31 15:21:08,344 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Lawn_Mower
+2025-05-31 15:21:09,169 - scraperService - INFO - Extracted data for vehicle: Lawn Mower
+2025-05-31 15:21:10,174 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ripley
+2025-05-31 15:21:10,442 - scraperService - INFO - Extracted data for vehicle: Ripley
+2025-05-31 15:21:11,447 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sadler
+2025-05-31 15:21:13,586 - scraperService - INFO - Extracted data for vehicle: Sadler
+2025-05-31 15:21:14,591 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sadler_(snow)
+2025-05-31 15:21:14,829 - scraperService - INFO - Extracted data for vehicle: Sadler (snow)
+2025-05-31 15:21:15,835 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Scrap_Truck
+2025-05-31 15:21:16,238 - scraperService - INFO - Extracted data for vehicle: Scrap Truck
+2025-05-31 15:21:17,244 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Towtruck_(Yankee-based)
+2025-05-31 15:21:18,059 - scraperService - INFO - Extracted data for vehicle: Tow Truck
+2025-05-31 15:21:19,062 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tow_Truck
+2025-05-31 15:21:19,634 - scraperService - INFO - Extracted data for vehicle: Tow Truck
+2025-05-31 15:21:20,640 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tractor
+2025-05-31 15:21:21,496 - scraperService - INFO - Extracted data for vehicle: Tractor
+2025-05-31 15:21:22,501 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Utility_Truck
+2025-05-31 15:21:23,237 - scraperService - INFO - Extracted data for vehicle: Utility Truck
+2025-05-31 15:21:24,243 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Utility_Truck_(AWP)
+2025-05-31 15:21:25,438 - scraperService - INFO - Extracted data for vehicle: Utility Truck
+2025-05-31 15:21:26,443 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Utility_Truck_(Contender-based)
+2025-05-31 15:21:27,282 - scraperService - INFO - Extracted data for vehicle: Utility Truck
+2025-05-31 15:21:28,288 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-2
+2025-05-31 15:21:28,579 - scraperService - INFO - Extracted data for vehicle: [2]
+2025-05-31 15:21:29,584 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Army_Trailer
+2025-05-31 15:21:30,153 - scraperService - INFO - Extracted data for vehicle: Army Trailer
+2025-05-31 15:21:31,159 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-3
+2025-05-31 15:21:31,440 - scraperService - INFO - Extracted data for vehicle: [3]
+2025-05-31 15:21:32,445 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Army_Trailer_(tanker)
+2025-05-31 15:21:33,109 - scraperService - INFO - Extracted data for vehicle: Army Trailer
+2025-05-31 15:21:34,114 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Baletrailer
+2025-05-31 15:21:35,270 - scraperService - INFO - Extracted data for vehicle: Baletrailer
+2025-05-31 15:21:36,275 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Boat_Trailer
+2025-05-31 15:21:36,570 - scraperService - INFO - Extracted data for vehicle: Boat Trailer
+2025-05-31 15:21:37,575 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dock_Trailer
+2025-05-31 15:21:38,297 - scraperService - INFO - Extracted data for vehicle: Dock Trailer
+2025-05-31 15:21:39,303 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-4
+2025-05-31 15:21:40,344 - scraperService - INFO - Extracted data for vehicle: [4]
+2025-05-31 15:21:41,350 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Graintrailer
+2025-05-31 15:21:41,596 - scraperService - INFO - Extracted data for vehicle: Graintrailer
+2025-05-31 15:21:42,602 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Prop_Trailer
+2025-05-31 15:21:42,780 - scraperService - INFO - Extracted data for vehicle: Prop Trailer
+2025-05-31 15:21:43,785 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(boat)
+2025-05-31 15:21:44,006 - scraperService - INFO - Extracted data for vehicle: Trailer (boat)
+2025-05-31 15:21:45,012 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(car_carrier)
+2025-05-31 15:21:45,251 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:21:46,256 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(flatbed)
+2025-05-31 15:21:46,537 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:21:47,543 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(container)
+2025-05-31 15:21:48,095 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:21:49,101 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(box)
+2025-05-31 15:21:49,667 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:21:50,673 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(ramp-door)
+2025-05-31 15:21:51,397 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:21:52,403 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(Fame_or_Shame)
+2025-05-31 15:21:52,992 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:21:53,997 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(logs)
+2025-05-31 15:21:54,637 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:21:55,643 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(rake)
+2025-05-31 15:21:56,208 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:21:57,214 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(small)
+2025-05-31 15:21:58,094 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:21:59,099 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trailer_(tanker)
+2025-05-31 15:21:59,664 - scraperService - INFO - Extracted data for vehicle: Trailer
+2025-05-31 15:22:00,669 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cutter
+2025-05-31 15:22:01,982 - scraperService - INFO - Extracted data for vehicle: Cutter
+2025-05-31 15:22:02,987 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dock_Handler
+2025-05-31 15:22:03,571 - scraperService - INFO - Extracted data for vehicle: Dock Handler
+2025-05-31 15:22:04,576 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dozer
+2025-05-31 15:22:05,212 - scraperService - INFO - Extracted data for vehicle: Dozer
+2025-05-31 15:22:06,217 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dump
+2025-05-31 15:22:06,784 - scraperService - INFO - Extracted data for vehicle: Dump
+2025-05-31 15:22:07,790 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Flatbed
+2025-05-31 15:22:08,171 - scraperService - INFO - Extracted data for vehicle: Flatbed
+2025-05-31 15:22:09,176 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mixer_(4-axle)
+2025-05-31 15:22:09,743 - scraperService - INFO - Extracted data for vehicle: Mixer
+2025-05-31 15:22:10,748 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rubble
+2025-05-31 15:22:11,040 - scraperService - INFO - Extracted data for vehicle: Rubble
+2025-05-31 15:22:12,045 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tipper_(3-axle)
+2025-05-31 15:22:13,232 - scraperService - INFO - Extracted data for vehicle: Tipper
+2025-05-31 15:22:14,237 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Airport_Bus
+2025-05-31 15:22:15,207 - scraperService - INFO - Extracted data for vehicle: Airport Bus
+2025-05-31 15:22:16,212 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Bus_(HD_Universe)
+2025-05-31 15:22:17,598 - scraperService - INFO - Extracted data for vehicle: Bus
+2025-05-31 15:22:18,604 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dashound
+2025-05-31 15:22:19,381 - scraperService - INFO - Extracted data for vehicle: Dashound
+2025-05-31 15:22:20,386 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rental_Shuttle_Bus
+2025-05-31 15:22:21,153 - scraperService - INFO - Extracted data for vehicle: Rental Shuttle Bus
+2025-05-31 15:22:22,158 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Taxi
+2025-05-31 15:22:22,529 - scraperService - INFO - Extracted data for vehicle: Taxi
+2025-05-31 15:22:23,535 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tour_Bus
+2025-05-31 15:22:24,423 - scraperService - INFO - Extracted data for vehicle: Tour Bus
+2025-05-31 15:22:25,428 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Trashmaster
+2025-05-31 15:22:26,201 - scraperService - INFO - Extracted data for vehicle: Trashmaster
+2025-05-31 15:22:27,206 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Benson_(HD_Universe)
+2025-05-31 15:22:27,946 - scraperService - INFO - Extracted data for vehicle: Benson
+2025-05-31 15:22:28,952 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Biff
+2025-05-31 15:22:30,702 - scraperService - INFO - Extracted data for vehicle: Biff
+2025-05-31 15:22:31,707 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Hauler
+2025-05-31 15:22:31,952 - scraperService - INFO - Extracted data for vehicle: Hauler
+2025-05-31 15:22:32,958 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mule
+2025-05-31 15:22:33,327 - scraperService - INFO - Extracted data for vehicle: Mule
+2025-05-31 15:22:34,333 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Packer
+2025-05-31 15:22:35,261 - scraperService - INFO - Extracted data for vehicle: Packer
+2025-05-31 15:22:36,266 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Phantom
+2025-05-31 15:22:36,677 - scraperService - INFO - Extracted data for vehicle: Phantom
+2025-05-31 15:22:37,682 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Pounder
+2025-05-31 15:22:38,110 - scraperService - INFO - Extracted data for vehicle: Pounder
+2025-05-31 15:22:39,115 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Securicar_(HD_Universe)
+2025-05-31 15:22:39,403 - scraperService - INFO - Extracted data for vehicle: Stockade
+2025-05-31 15:22:40,408 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Stockade_(snow)
+2025-05-31 15:22:41,159 - scraperService - INFO - Extracted data for vehicle: Stockade
+2025-05-31 15:22:42,165 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ambulance_(HD_Universe)
+2025-05-31 15:22:44,049 - scraperService - INFO - Extracted data for vehicle: Ambulance
+2025-05-31 15:22:45,054 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/FIB_Buffalo
+2025-05-31 15:22:45,742 - scraperService - INFO - Extracted data for vehicle: FIB
+2025-05-31 15:22:46,747 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-5
+2025-05-31 15:22:47,383 - scraperService - INFO - Extracted data for vehicle: [5]
+2025-05-31 15:22:48,389 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-6
+2025-05-31 15:22:49,150 - scraperService - INFO - Extracted data for vehicle: [6]
+2025-05-31 15:22:50,156 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/FIB_(vehicle)
+2025-05-31 15:22:51,544 - scraperService - INFO - Extracted data for vehicle: FIB
+2025-05-31 15:22:52,549 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Fire_Truck_(HD_Universe)
+2025-05-31 15:22:53,183 - scraperService - INFO - Extracted data for vehicle: Fire Truck
+2025-05-31 15:22:54,188 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Lifeguard
+2025-05-31 15:22:55,138 - scraperService - INFO - Extracted data for vehicle: Lifeguard
+2025-05-31 15:22:56,144 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Park_Ranger
+2025-05-31 15:22:56,664 - scraperService - INFO - Extracted data for vehicle: Park Ranger
+2025-05-31 15:22:57,669 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Bike
+2025-05-31 15:22:58,090 - scraperService - INFO - Extracted data for vehicle: Police Bike
+2025-05-31 15:22:59,095 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Cruiser
+2025-05-31 15:22:59,390 - scraperService - INFO - Extracted data for vehicle: Police Cruiser
+2025-05-31 15:23:00,395 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Cruiser_(Buffalo)
+2025-05-31 15:23:01,125 - scraperService - INFO - Extracted data for vehicle: Police Cruiser
+2025-05-31 15:23:02,130 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-7
+2025-05-31 15:23:02,762 - scraperService - INFO - Extracted data for vehicle: [7]
+2025-05-31 15:23:03,768 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Cruiser_(interceptor)
+2025-05-31 15:23:04,489 - scraperService - INFO - Extracted data for vehicle: Police Cruiser
+2025-05-31 15:23:05,494 - scraperService - INFO - Scraping details from https://gta.fandom.com#cite_note-8
+2025-05-31 15:23:05,748 - scraperService - INFO - Extracted data for vehicle: [8]
+2025-05-31 15:23:06,754 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Maverick_(HD_Universe)
+2025-05-31 15:23:07,609 - scraperService - INFO - Extracted data for vehicle: Police Maverick
+2025-05-31 15:23:08,614 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Rancher
+2025-05-31 15:23:09,287 - scraperService - INFO - Extracted data for vehicle: Police Rancher
+2025-05-31 15:23:10,289 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Riot
+2025-05-31 15:23:11,119 - scraperService - INFO - Extracted data for vehicle: Police Riot
+2025-05-31 15:23:12,124 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Roadcruiser
+2025-05-31 15:23:12,874 - scraperService - INFO - Extracted data for vehicle: Police Roadcruiser
+2025-05-31 15:23:13,879 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Transporter
+2025-05-31 15:23:14,123 - scraperService - INFO - Extracted data for vehicle: Police Transporter
+2025-05-31 15:23:15,128 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Prison_Bus
+2025-05-31 15:23:15,438 - scraperService - INFO - Extracted data for vehicle: Police Prison Bus
+2025-05-31 15:23:16,443 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Police_Predator
+2025-05-31 15:23:16,735 - scraperService - INFO - Extracted data for vehicle: Police Predator
+2025-05-31 15:23:17,741 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sheriff_Cruiser
+2025-05-31 15:23:18,588 - scraperService - INFO - Extracted data for vehicle: Sheriff Cruiser
+2025-05-31 15:23:19,594 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Sheriff_SUV
+2025-05-31 15:23:20,208 - scraperService - INFO - Extracted data for vehicle: Sheriff SUV
+2025-05-31 15:23:21,213 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Unmarked_Cruiser
+2025-05-31 15:23:21,499 - scraperService - INFO - Extracted data for vehicle: Unmarked Cruiser
+2025-05-31 15:23:22,504 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Barracks
+2025-05-31 15:23:23,882 - scraperService - INFO - Extracted data for vehicle: Barracks
+2025-05-31 15:23:24,888 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Barracks_Semi
+2025-05-31 15:23:26,133 - scraperService - INFO - Extracted data for vehicle: Barracks Semi
+2025-05-31 15:23:27,139 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Crusader
+2025-05-31 15:23:28,622 - scraperService - INFO - Extracted data for vehicle: Crusader
+2025-05-31 15:23:29,627 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Rhino_Tank
+2025-05-31 15:23:29,917 - scraperService - INFO - Extracted data for vehicle: Rhino Tank
+2025-05-31 15:23:30,922 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dinghy_(HD_Universe)
+2025-05-31 15:23:32,609 - scraperService - INFO - Extracted data for vehicle: Dinghy
+2025-05-31 15:23:33,614 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dinghy_(2-seater)
+2025-05-31 15:23:34,675 - scraperService - INFO - Extracted data for vehicle: Dinghy
+2025-05-31 15:23:35,680 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jetmax
+2025-05-31 15:23:36,881 - scraperService - INFO - Extracted data for vehicle: Jetmax
+2025-05-31 15:23:37,886 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Kraken
+2025-05-31 15:23:38,614 - scraperService - INFO - Extracted data for vehicle: Kraken
+2025-05-31 15:23:39,619 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Marquis
+2025-05-31 15:23:39,978 - scraperService - INFO - Extracted data for vehicle: Marquis
+2025-05-31 15:23:40,984 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Seashark
+2025-05-31 15:23:41,839 - scraperService - INFO - Extracted data for vehicle: Seashark
+2025-05-31 15:23:42,844 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Speeder_(boat)
+2025-05-31 15:23:43,627 - scraperService - INFO - Extracted data for vehicle: Speeder
+2025-05-31 15:23:44,632 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Beach_Bum_Update
+2025-05-31 15:23:44,818 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:23:45,823 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Squalo
+2025-05-31 15:23:46,197 - scraperService - INFO - Extracted data for vehicle: Squalo
+2025-05-31 15:23:47,202 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Submersible
+2025-05-31 15:23:47,845 - scraperService - INFO - Extracted data for vehicle: Submersible
+2025-05-31 15:23:48,850 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Suntrap
+2025-05-31 15:23:49,285 - scraperService - INFO - Extracted data for vehicle: Suntrap
+2025-05-31 15:23:50,290 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Toro
+2025-05-31 15:23:51,045 - scraperService - INFO - Extracted data for vehicle: Toro
+2025-05-31 15:23:52,051 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:23:52,826 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:23:53,833 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Tropic
+2025-05-31 15:23:54,290 - scraperService - INFO - Extracted data for vehicle: Tropic
+2025-05-31 15:23:55,295 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Atomic_Blimp
+2025-05-31 15:23:56,028 - scraperService - INFO - Extracted data for vehicle: Atomic Blimp
+2025-05-31 15:23:57,033 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Besra
+2025-05-31 15:23:57,404 - scraperService - INFO - Extracted data for vehicle: Besra
+2025-05-31 15:23:58,409 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_San_Andreas_Flight_School_Update
+2025-05-31 15:23:59,136 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:24:00,141 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cargo_Plane
+2025-05-31 15:24:00,763 - scraperService - INFO - Extracted data for vehicle: Cargo Plane
+2025-05-31 15:24:01,764 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cuban_800
+2025-05-31 15:24:01,985 - scraperService - INFO - Extracted data for vehicle: Cuban 800
+2025-05-31 15:24:02,991 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Dodo_(HD_Universe)
+2025-05-31 15:24:03,760 - scraperService - INFO - Extracted data for vehicle: Dodo
+2025-05-31 15:24:04,761 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Duster
+2025-05-31 15:24:06,264 - scraperService - INFO - Extracted data for vehicle: Duster
+2025-05-31 15:24:07,269 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Jet
+2025-05-31 15:24:07,948 - scraperService - INFO - Extracted data for vehicle: Jet
+2025-05-31 15:24:08,954 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Luxor
+2025-05-31 15:24:09,172 - scraperService - INFO - Extracted data for vehicle: Luxor
+2025-05-31 15:24:10,177 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Luxor_Deluxe
+2025-05-31 15:24:10,797 - scraperService - INFO - Extracted data for vehicle: Luxor Deluxe
+2025-05-31 15:24:11,802 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:24:11,943 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:24:12,948 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mallard
+2025-05-31 15:24:13,326 - scraperService - INFO - Extracted data for vehicle: Mallard
+2025-05-31 15:24:14,332 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Mammatus
+2025-05-31 15:24:14,578 - scraperService - INFO - Extracted data for vehicle: Mammatus
+2025-05-31 15:24:15,583 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Miljet
+2025-05-31 15:24:15,987 - scraperService - INFO - Extracted data for vehicle: Miljet
+2025-05-31 15:24:16,992 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_San_Andreas_Flight_School_Update
+2025-05-31 15:24:17,443 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:24:18,449 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/P-996_LAZER
+2025-05-31 15:24:18,828 - scraperService - INFO - Extracted data for vehicle: P-996 LAZER
+2025-05-31 15:24:19,829 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Shamal
+2025-05-31 15:24:21,307 - scraperService - INFO - Extracted data for vehicle: Shamal
+2025-05-31 15:24:22,307 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Titan
+2025-05-31 15:24:22,553 - scraperService - INFO - Extracted data for vehicle: Titan
+2025-05-31 15:24:23,554 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Velum
+2025-05-31 15:24:24,147 - scraperService - INFO - Extracted data for vehicle: Velum
+2025-05-31 15:24:25,153 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Vestra
+2025-05-31 15:24:25,408 - scraperService - INFO - Extracted data for vehicle: Vestra
+2025-05-31 15:24:26,414 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_Business_Update
+2025-05-31 15:24:26,596 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:24:27,602 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Xero_Blimp
+2025-05-31 15:24:27,781 - scraperService - INFO - Extracted data for vehicle: Xero Blimp
+2025-05-31 15:24:28,783 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buzzard
+2025-05-31 15:24:29,519 - scraperService - INFO - Extracted data for vehicle: Buzzard
+2025-05-31 15:24:30,524 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Buzzard_Attack_Chopper
+2025-05-31 15:24:31,371 - scraperService - INFO - Extracted data for vehicle: Buzzard Attack Chopper
+2025-05-31 15:24:32,376 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cargobob
+2025-05-31 15:24:33,111 - scraperService - INFO - Extracted data for vehicle: Cargobob
+2025-05-31 15:24:34,117 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Frogger
+2025-05-31 15:24:34,370 - scraperService - INFO - Extracted data for vehicle: Frogger
+2025-05-31 15:24:35,372 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Frogger_(TPE)
+2025-05-31 15:24:35,661 - scraperService - INFO - Extracted data for vehicle: Frogger
+2025-05-31 15:24:36,667 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Maverick_(HD_Universe)
+2025-05-31 15:24:37,440 - scraperService - INFO - Extracted data for vehicle: Maverick
+2025-05-31 15:24:38,445 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Skylift
+2025-05-31 15:24:39,231 - scraperService - INFO - Extracted data for vehicle: Skylift
+2025-05-31 15:24:40,237 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Swift
+2025-05-31 15:24:40,505 - scraperService - INFO - Extracted data for vehicle: Swift
+2025-05-31 15:24:41,510 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/The_San_Andreas_Flight_School_Update
+2025-05-31 15:24:41,707 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:24:42,713 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Swift_Deluxe
+2025-05-31 15:24:44,146 - scraperService - INFO - Extracted data for vehicle: Swift Deluxe
+2025-05-31 15:24:45,151 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Ill-Gotten_Gains_Part_1
+2025-05-31 15:24:45,312 - scraperService - INFO - Extracted data for vehicle: DLC
+2025-05-31 15:24:46,317 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Cablecar
+2025-05-31 15:24:46,556 - scraperService - INFO - Extracted data for vehicle: Cable Car
+2025-05-31 15:24:47,562 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train
+2025-05-31 15:24:48,167 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:24:49,172 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(wellcar)
+2025-05-31 15:24:49,456 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:24:50,461 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(wellcar)
+2025-05-31 15:24:51,018 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:24:52,023 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(wellcar)
+2025-05-31 15:24:52,297 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:24:53,302 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(boxcar)
+2025-05-31 15:24:53,880 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:24:54,885 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Freight_Train_(tanker)
+2025-05-31 15:24:55,251 - scraperService - INFO - Extracted data for vehicle: Freight Train
+2025-05-31 15:24:56,256 - scraperService - INFO - Scraping details from https://gta.fandom.com/wiki/Metrotrain
+2025-05-31 15:24:56,881 - scraperService - INFO - Extracted data for vehicle: Metrotrain
+2025-05-31 15:24:57,887 - scraperService - INFO - Successfully scraped 393 vehicles from GTA Wiki
+2025-05-31 15:24:57,889 - scraperService - INFO - Total unique vehicles scraped: 393
+2025-05-31 15:24:57,890 - __main__ - INFO - Scraped 393 raw vehicle records
+2025-05-31 15:24:57,895 - __main__ - INFO - Successfully processed 393 out of 393 vehicles
+2025-05-31 15:24:57,896 - __main__ - INFO - Saving vehicles to the database
+2025-05-31 15:24:58,116 - db_config - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2025-05-31 15:24:58,116 - db_config - ERROR - Error during bulk insert operation: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2025-05-31 15:24:58,116 - __main__ - INFO - Database operation completed: 0 vehicles added, 0 failed
+2025-05-31 15:24:58,116 - __main__ - INFO - GTA5 vehicles scraperService completed successfully

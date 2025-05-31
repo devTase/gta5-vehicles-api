@@ -1,0 +1,8 @@
+2025-05-31 15:00:58,188 - __main__ - INFO - Starting GTA5 vehicles scraperService
+2025-05-31 15:00:58,188 - __main__ - INFO - Scraping from all sources
+2025-05-31 15:00:58,188 - scraperService - INFO - Scraping vehicles from https://www.gtabase.com/grand-theft-auto-v/vehicles/
+2025-05-31 15:00:58,865 - scraperService - INFO - Successfully scraped 0 vehicles from GTA Base
+2025-05-31 15:00:58,866 - scraperService - INFO - Scraping vehicles from https://gta.fandom.com/wiki/Category:Vehicles_in_GTA_5
+2025-05-31 15:00:59,210 - scraperService - ERROR - Error fetching GTA Wiki: 404 Client Error: Not Found for url: https://gta.fandom.com/wiki/Category:Vehicles_in_GTA_5
+2025-05-31 15:00:59,211 - scraperService - INFO - Total unique vehicles scraped: 0
+2025-05-31 15:00:59,211 - __main__ - ERROR - No vehicle data was scraped. Exiting.

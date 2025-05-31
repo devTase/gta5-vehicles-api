@@ -1,5 +1,6 @@
 package dev.tase.gta5vehicles.resources;
 
+import dev.tase.gta5vehicles.control.VehicleService;
 import dev.tase.gta5vehicles.entities.Vehicle;
 import dev.tase.gta5vehicles.repositories.VehicleRepository;
 import jakarta.inject.Inject;
@@ -25,6 +26,9 @@ public class VehicleResource {
 
     @Inject
     VehicleRepository vehicleRepository;
+
+    @Inject
+    VehicleService vehicleService;
 
     @GET
     @Operation(summary = "Get all vehicles", description = "Returns a list of all vehicles in the database")
@@ -73,8 +77,7 @@ public class VehicleResource {
         if (vehicle == null || vehicle.name == null || vehicle.manufacturer == null) {
             return Response.status(Response.Status.BAD_REQUEST).build();
         }
-        
-        vehicle.persist();
+       vehicleService.createVehicle(vehicle);
         return Response.status(Response.Status.CREATED).entity(vehicle).build();
     }
 
@@ -114,12 +117,7 @@ public class VehicleResource {
         vehicle.topSpeed = updatedVehicle.topSpeed;
         vehicle.acceleration = updatedVehicle.acceleration;
         vehicle.braking = updatedVehicle.braking;
-        vehicle.handling = updatedVehicle.handling;
         vehicle.price = updatedVehicle.price;
-        vehicle.releaseDate = updatedVehicle.releaseDate;
-        vehicle.isSpecialVehicle = updatedVehicle.isSpecialVehicle;
-        vehicle.modifications = updatedVehicle.modifications;
-        
         vehicle.persist();
         return Response.ok(vehicle).build();
     }
