@@ -1,6 +1,5 @@
-package dev.tase.gta5vehicles.repositories;
+package dev.tase.gta5vehicles.vehicle.entity;
 
-import dev.tase.gta5vehicles.entities.Vehicle;
 import io.quarkus.hibernate.orm.panache.PanacheRepository;
 import jakarta.enterprise.context.ApplicationScoped;
 

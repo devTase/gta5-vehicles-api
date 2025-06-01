@@ -1,4 +1,4 @@
-package dev.tase.gta5vehicles.scrap;
+package dev.tase.gta5vehicles.scrap.control;
 
 import org.jsoup.nodes.Element;
 

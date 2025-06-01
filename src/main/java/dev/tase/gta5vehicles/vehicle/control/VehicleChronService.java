@@ -1,9 +1,8 @@
-package dev.tase.gta5vehicles.control;
+package dev.tase.gta5vehicles.vehicle.control;
 
-import dev.tase.gta5vehicles.scrap.ScraperService;
+import dev.tase.gta5vehicles.scrap.control.ScraperService;
 import io.quarkus.runtime.Startup;
 import io.quarkus.scheduler.Scheduled;
-import jakarta.annotation.PostConstruct;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import org.jboss.logging.Logger;

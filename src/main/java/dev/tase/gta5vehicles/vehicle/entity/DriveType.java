@@ -1,4 +1,4 @@
-package dev.tase.gta5vehicles.entities;
+package dev.tase.gta5vehicles.vehicle.entity;
 
 import java.util.Arrays;
 

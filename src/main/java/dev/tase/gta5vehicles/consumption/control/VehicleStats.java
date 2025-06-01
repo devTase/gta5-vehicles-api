@@ -1,4 +1,4 @@
-package dev.tase.gta5vehicles.consumption;
+package dev.tase.gta5vehicles.consumption.control;
 
 public class VehicleStats {
     private String category;

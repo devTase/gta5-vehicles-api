@@ -1,11 +1,12 @@
-package dev.tase.gta5vehicles.scrap;
+package dev.tase.gta5vehicles.scrap.control;
 
-import dev.tase.gta5vehicles.consumption.FuelConsumptionEstimator;
-import dev.tase.gta5vehicles.consumption.VehicleStats;
-import dev.tase.gta5vehicles.entities.DriveType;
-import dev.tase.gta5vehicles.entities.FuelType;
-import dev.tase.gta5vehicles.entities.Vehicle;
-import dev.tase.gta5vehicles.entities.VehicleCategory;
+import dev.tase.gta5vehicles.consumption.control.FuelConsumptionEstimator;
+import dev.tase.gta5vehicles.consumption.control.VehicleStats;
+import dev.tase.gta5vehicles.vehicle.entity.DriveType;
+import dev.tase.gta5vehicles.vehicle.entity.FuelType;
+import dev.tase.gta5vehicles.vehicle.entity.Vehicle;
+import dev.tase.gta5vehicles.vehicle.entity.VehicleCategory;
+import dev.tase.gta5vehicles.vehicle.entity.VehicleProperty;
 import jakarta.enterprise.context.ApplicationScoped;
 import org.jboss.logging.Logger;
 import org.jsoup.Jsoup;

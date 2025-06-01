@@ -1,4 +1,4 @@
-package dev.tase.gta5vehicles.entities;
+package dev.tase.gta5vehicles.vehicle.entity;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.persistence.*;
@@ -66,6 +66,10 @@ public class Vehicle extends PanacheEntityBase {
     
     public static List<Vehicle> findByPriceRange(BigDecimal minPrice, BigDecimal maxPrice) {
         return list("price >= ?1 and price <= ?2", minPrice, maxPrice);
+    }
+
+    public static List<Vehicle> findByName(String name) {
+        return list("name", name);
     }
 
     public Double getEngineHealth() {

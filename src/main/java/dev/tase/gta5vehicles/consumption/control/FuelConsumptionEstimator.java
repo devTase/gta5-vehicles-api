@@ -1,8 +1,8 @@
-package dev.tase.gta5vehicles.consumption;
+package dev.tase.gta5vehicles.consumption.control;
 
-import dev.tase.gta5vehicles.entities.DriveType;
-import dev.tase.gta5vehicles.entities.FuelType;
-import dev.tase.gta5vehicles.entities.VehicleCategory;
+import dev.tase.gta5vehicles.vehicle.entity.DriveType;
+import dev.tase.gta5vehicles.vehicle.entity.FuelType;
+import dev.tase.gta5vehicles.vehicle.entity.VehicleCategory;
 
 public class FuelConsumptionEstimator {
     public static double calculateFuelConsumption(VehicleStats car, boolean boostActive, double rpm) {

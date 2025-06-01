@@ -1,8 +1,8 @@
-package dev.tase.gta5vehicles.resources;
+package dev.tase.gta5vehicles.vehicle.boundary;
 
-import dev.tase.gta5vehicles.control.VehicleService;
-import dev.tase.gta5vehicles.entities.Vehicle;
-import dev.tase.gta5vehicles.repositories.VehicleRepository;
+import dev.tase.gta5vehicles.vehicle.control.VehicleService;
+import dev.tase.gta5vehicles.vehicle.entity.Vehicle;
+import dev.tase.gta5vehicles.vehicle.entity.VehicleRepository;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;
 import jakarta.ws.rs.*;

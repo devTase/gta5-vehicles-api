@@ -1,4 +1,4 @@
-package dev.tase.gta5vehicles.scrap;
+package dev.tase.gta5vehicles.vehicle.entity;
 
 public enum VehicleProperty {
     BUY_PRICE(0),

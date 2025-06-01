@@ -1,4 +1,4 @@
-package dev.tase.gta5vehicles.entities;
+package dev.tase.gta5vehicles.vehicle.entity;
 
 public enum VehicleCategory {
     SPORTS("Sports", true, 7.5, 1.3),
