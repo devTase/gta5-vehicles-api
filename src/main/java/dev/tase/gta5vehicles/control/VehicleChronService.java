@@ -2,6 +2,7 @@ package dev.tase.gta5vehicles.control;
 
 import dev.tase.gta5vehicles.scrap.ScraperService;
 import io.quarkus.runtime.Startup;
+import io.quarkus.scheduler.Scheduled;
 import jakarta.annotation.PostConstruct;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
@@ -17,9 +18,9 @@ public class VehicleChronService {
     @Inject
     VehicleService vehicleService;
 
-    @PostConstruct
-    void onStartup() {
-        System.out.println("A iniciar scrapping ...");
+    @Scheduled(every = "PT5h") // corre uma vez, 10s após o arranque
+    void runOnStartupWithDelay() {
+        System.out.println("A iniciar scrapping (com delay)...");
         executeTask();
     }
 

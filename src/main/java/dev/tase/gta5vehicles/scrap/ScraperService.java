@@ -3,8 +3,9 @@ package dev.tase.gta5vehicles.scrap;
 import dev.tase.gta5vehicles.consumption.FuelConsumptionEstimator;
 import dev.tase.gta5vehicles.consumption.VehicleStats;
 import dev.tase.gta5vehicles.entities.DriveType;
+import dev.tase.gta5vehicles.entities.FuelType;
 import dev.tase.gta5vehicles.entities.Vehicle;
-import dev.tase.gta5vehicles.entities.VehicleClass;
+import dev.tase.gta5vehicles.entities.VehicleCategory;
 import jakarta.enterprise.context.ApplicationScoped;
 import org.jboss.logging.Logger;
 import org.jsoup.Jsoup;
@@ -87,7 +88,7 @@ public class ScraperService {
 
         String vehicleClassType = ScraperUtils.getCleanText(vehiclePrimaryDetails, 0, 1);
         if (vehicleClassType != null) {
-            vehicle.setVehicleClass(VehicleClass.from(vehicleClassType).name());
+            vehicle.setCategory(VehicleCategory.from(vehicleClassType).name());
         }
         String manufc = ScraperUtils.getCleanText(vehiclePrimaryDetails, 1, 1);
         if (!ScraperUtils.isDouble(manufc)) {
@@ -106,15 +107,13 @@ public class ScraperService {
         vehicle.setSeats(ScraperUtils.getInteger(vehicleSecondaryDetails, VehicleProperty.SEATS.getIndex(), defaultTextIndex));
         vehicle.setPrice(ScraperUtils.getBigDecimal(vehicleSecondaryDetails, VehicleProperty.BUY_PRICE.getIndex(), defaultTextIndex));
         vehicle.setDriveType(DriveType.from(vehicleSecondaryDetails.child(VehicleProperty.DRIVE_TYPE.getIndex()).child(1).text()).name());
+        vehicle.setEngineHealth(1000.0);
 
         // calculate vehicle consumptions
         vehicle.setConsumptions(
-                FuelConsumptionEstimator.estimateFuelConsumption(
-                        new VehicleStats(
-                                vehicle.getWeight(),
-                                vehicle.getAcceleration(),
-                                vehicle.getDriveType(),
-                                vehicle.getVehicleClass())
+                FuelConsumptionEstimator.calculateFuelConsumption(
+                        new VehicleStats(vehicle.getCategory(), vehicle.getDriveType(), FuelType.GASOLINE.name(), vehicle.getEngineHealth(), vehicle.getWeight()),
+                        false, 0.0
                 )
         );
         addNewScrappedVehicle(vehicle);

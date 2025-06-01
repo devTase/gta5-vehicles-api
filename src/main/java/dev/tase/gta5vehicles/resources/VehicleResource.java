@@ -112,7 +112,7 @@ public class VehicleResource {
         // Update vehicle fields
         vehicle.name = updatedVehicle.name;
         vehicle.manufacturer = updatedVehicle.manufacturer;
-        vehicle.vehicleClass = updatedVehicle.vehicleClass;
+        vehicle.category = updatedVehicle.category;
         vehicle.seats = updatedVehicle.seats;
         vehicle.topSpeed = updatedVehicle.topSpeed;
         vehicle.acceleration = updatedVehicle.acceleration;

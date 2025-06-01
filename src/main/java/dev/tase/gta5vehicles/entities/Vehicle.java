@@ -4,15 +4,13 @@ import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.persistence.*;
 
 import java.math.BigDecimal;
-import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Entity representing a GTA5 vehicle with detailed specifications.
  */
 @Entity
-@Table(name = "vehicle")
+@Table(name = "vehicles")
 public class Vehicle extends PanacheEntityBase {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -24,14 +22,17 @@ public class Vehicle extends PanacheEntityBase {
     @Column
     public String manufacturer;
     
-    @Column(name = "vehicle_class")
-    public String vehicleClass;
+    @Column(name = "category")
+    public String category;
 
     @Column(name = "drive_type")
     public String driveType;
     
     @Column
     public Integer seats;
+
+    @Column
+    public Double engineHealth;
     
     @Column(name = "top_speed")
     public Double topSpeed;
@@ -48,7 +49,7 @@ public class Vehicle extends PanacheEntityBase {
     @Column
     public Double weight;
 
-    @Column
+    @Column(name = "consumos")
     public Double consumptions;
 
     // Default constructor required by JPA
@@ -65,6 +66,14 @@ public class Vehicle extends PanacheEntityBase {
     
     public static List<Vehicle> findByPriceRange(BigDecimal minPrice, BigDecimal maxPrice) {
         return list("price >= ?1 and price <= ?2", minPrice, maxPrice);
+    }
+
+    public Double getEngineHealth() {
+        return engineHealth;
+    }
+
+    public void setEngineHealth(Double engineHealth) {
+        this.engineHealth = engineHealth;
     }
 
     public Long getId() {
@@ -131,12 +140,12 @@ public class Vehicle extends PanacheEntityBase {
         this.price = price;
     }
 
-    public String getVehicleClass() {
-        return vehicleClass;
+    public String getCategory() {
+        return category;
     }
 
-    public void setVehicleClass(String vehicleClass) {
-        this.vehicleClass = vehicleClass;
+    public void setCategory(String category) {
+        this.category = category;
     }
 
     public String getDriveType() {
@@ -169,7 +178,7 @@ public class Vehicle extends PanacheEntityBase {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", manufacturer='" + manufacturer + '\'' +
-                ", vehicleClass=" + vehicleClass +
+                ", vehicleClass=" + category +
                 ", driveType=" + driveType +
                 ", seats=" + seats +
                 ", topSpeed=" + topSpeed +

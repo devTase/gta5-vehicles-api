@@ -31,7 +31,8 @@ public class ScraperUtils {
         String value = getCleanText(parent, rowIndex, colIndex);
         if (value == null || value.equals("N/A")) return 0.0;
 
-        value = value.replace(",", ".").replaceAll("[^\\d.\\-]", ""); // permite negativos
+        value = value.replace(",", "").replaceAll("[^\\d.\\-]", "");
+
         try {
             return Double.valueOf(value);
         } catch (NumberFormatException e) {
@@ -43,7 +44,7 @@ public class ScraperUtils {
         String value = getCleanText(parent, rowIndex, colIndex);
         if (value == null) return null;
 
-        value = value.replaceAll("[^\\d]", "");
+        value = value.replaceAll("\\D", "");
         try {
             return Integer.valueOf(value);
         } catch (NumberFormatException e) {
@@ -53,7 +54,7 @@ public class ScraperUtils {
 
     public static BigDecimal getBigDecimal(Element parent, int rowIndex, int colIndex) {
         String value = getCleanText(parent, rowIndex, colIndex);
-        if (value == null) return new BigDecimal(0.0);
+        if (value == null) return new BigDecimal("0.0");
 
         value = value.replaceAll("[^\\d.]", "");
         try {
